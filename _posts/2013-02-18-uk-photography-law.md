@@ -4,6 +4,7 @@ title: UK Photography Law... As I Understand It
 permalink: 2013-02-18-uk-photography-law
 categories: photography
 layout: post
+share: true
 ---
 
 After listening to an American photography podcast talk about model release forms I decided to look into the situation here in the UK. Below is my understanding of the UK law and your rights as a photographer. However I have no legal expertise, this is not a legal document and you certainly shouldn't rely on it as part of your defence if you end up in court. If you are involved in legal dispute then you need to consult a solicitor. I cannot accept any losses that could result from you using any of the information in this blog post.

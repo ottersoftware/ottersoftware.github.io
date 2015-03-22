@@ -4,6 +4,7 @@ title: The Law Is A Ass
 permalink: 2013-05-03-the-law-is-a-ass
 categories: cycling
 layout: post
+share: true
 ---
 
 I've just read [a news story](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-22397918) about a man whose careless driving resulted in the death of a cyclist in Scotland. He has been ordered to carry out 300 hours of community service.

@@ -4,6 +4,7 @@ title: Better Than New
 permalink: 2012-05-23-better-than-new
 categories: cycling
 layout: post
+share: true
 ---
 
 Today my bike had its post-purchase, free service from [John's Bikes](http://www.johnsbikes.co.uk). I'd taken in a list of things that I wanted them to specifically check as well as a rear rack I wanted fitting which I'd bought so that I can use panniers and actually run some errands on the bike.

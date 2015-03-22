@@ -4,6 +4,7 @@ title: General Exercise Update
 permalink: 2012-06-02-general-exercise-update
 categories: personal
 layout: post
+share: true
 ---
 
 This week has been quite busy in terms of my effort to improve my fitness. At the start of the week I converted my desk into a standing desk and whilst I can only manage three or four hours at a time (and sometimes in total for a day) I'm enjoying the experience so far. I can't tell if it is making any difference, if I'm more alert or have better concentration but it's certainly not having a negative impact in that I can concentrate well and working whilst standing isn't an issue.

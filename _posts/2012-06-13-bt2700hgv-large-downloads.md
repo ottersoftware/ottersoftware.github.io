@@ -4,6 +4,7 @@ title: BT2700HGV and Large Downloads
 permalink: 2012-06-13-bt2700hgv-large-downloads
 categories: technology
 layout: post
+share: true
 ---
 
 A week or so ago I had a problem trying to download a movie from the iTunes Store. It was an HD film that was 4.55GB. At the time I put it down to a problem with the store and Apple gave me a refund.

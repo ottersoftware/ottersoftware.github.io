@@ -4,6 +4,7 @@ title: Getting Organised - iDeveloper Live Episode 42 Notes (13 February 2012)
 permalink: 2012-02-17-getting-organised
 categories: business
 layout: post
+share: true
 ---
 
 ### Introduction

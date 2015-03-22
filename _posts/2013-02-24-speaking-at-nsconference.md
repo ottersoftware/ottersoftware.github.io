@@ -4,6 +4,7 @@ title: Speaking at NSConference
 permalink: 2013-02-24-speaking-at-nsconference
 categories: business
 layout: post
+share: true
 ---
 
 On Monday 4 March 2013 I will be presenting a short talk entitled 'Searching for Speedy Searching'. Although I volunteered to talk it is a scary prospect, particularly since I'm not a natural public speaker or presenter. I'm definitely on a learning curve for this stuff and no expert but I thought I'd note down a few ideas and thoughts I have about it which may either help other people in a similar situation or, even better, prompt some more polished speakers to offer me some tips.

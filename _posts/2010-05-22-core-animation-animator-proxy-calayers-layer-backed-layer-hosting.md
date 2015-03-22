@@ -4,6 +4,7 @@ title: Core Animation - Animator Proxy, CALayers, Layer-Backed and Layer Hosting
 permalink: 2010-05-22-core-animation-animator-proxy-calayers-layer-backed-layer-hosting
 categories: cocoa
 layout: post
+share: true
 ---
 
 ### Introduction

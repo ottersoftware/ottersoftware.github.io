@@ -4,6 +4,7 @@ title: Spot Color and Developer Color Picker
 permalink: 2010-04-27-spot-color-and-developer-color-picker
 categories: cocoa
 layout: post
+share: true
 ---
 
 [Spot Color](http://zachwaugh.com/spotcolor/) is a small application that simply allows you to access the standard Mac OS X color picker as a stand-alone application. I was endlessly loading or switching applications to access the color picker so discovering this application was a huge relief and will save me endless amounts of frustration.

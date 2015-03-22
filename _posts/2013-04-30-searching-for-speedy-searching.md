@@ -4,6 +4,7 @@ title: Searching For Speedy Searching
 permalink: 2013-04-30-searching-for-speedy-searching
 categories: cocoa
 layout: post
+share: true
 ---
 
 At [NSConference 5](http://nsconference.com) I presented a talk entitled 'Searching for Speedy Searching'. The talk was about how you can use SQLite's [Full Text Search](http://www.sqlite.org/fts3.html) (FTS) to add full text searching to your Cocoa applications quickly and easily.

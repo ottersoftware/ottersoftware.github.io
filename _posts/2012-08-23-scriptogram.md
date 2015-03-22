@@ -4,6 +4,7 @@ title: Scriptogr.am
 permalink: 2012-08-23-scriptogram
 categories: technology
 layout: post
+share: true
 ---
 
 Two days ago I decided to revamp my blogging methodology. You can read a little about it in my [A New Home](http://scriptogr.am/swwritings/post/2012-08-21-a-new-home) post. Since I started using [Scriptogr.am](http://scriptogr.am) several people have asked me about the experience and I thought I'd both write about it and a bit about my workflow. The latter will be evolving over the coming weeks I imagine however but it might give you some ideas and obviously if you have any tips or tricks you want to share let me know. My contact details are at the end of this (and every other) post.

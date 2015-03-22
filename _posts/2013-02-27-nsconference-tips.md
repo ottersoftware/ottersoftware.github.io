@@ -4,6 +4,7 @@ title: NSConference Tips
 permalink: 2013-02-27-nsconference-tips
 categories: business
 layout: post
+share: true
 ---
 
 The fifth NSConference starts on Monday so I've decided to dust off and update an old blog post (on an old blog) I wrote for the 2010 conference. Below you will find some comments aimed mainly at new attendees although some old hands might also find them useful too. However, before I get to that, if you've never been before then you might want to read a post I wrote about the [2011 conference](http://swwritings.com/post/2011-03-23-nsconference-2011).

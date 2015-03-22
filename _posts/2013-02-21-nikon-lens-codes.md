@@ -4,6 +4,7 @@ title: Nikon Lens Codes
 permalink: 2013-02-21-nikon-lens-codes
 categories: photography
 layout: post
+share: true
 ---
 
 I've always found the Nikon lens codes a bit of a mystery so I'm writing a quick blog post as an aide-mémoire.

@@ -4,6 +4,7 @@ title: Xcode Bots, Git and Tagging
 permalink: 2013-11-26-xcode-bots-git-and-tagging
 categories: cocoa
 layout: post
+share: true
 ---
 
 Following on from [my last post](http://swwritings.com/post/2013-11-25-xcode-bots-build-numbers-and-git) about incrementing build numbers when using Xcode's Bots and pushing the changes to your Git repository, this post contains a small script to tag your build.

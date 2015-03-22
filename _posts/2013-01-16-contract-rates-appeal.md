@@ -4,6 +4,7 @@ title: Cocoa Contract Developer Rates - The Appeal
 permalink: 2013-01-16-contract-rates-appeal
 categories: business
 layout: post
+share: true
 ---
 
 I recently tweeted about how I was upping my hourly rate after three years as a contract developer. Several people then asked me what I charged or how I had decided on what to charge. To be honest, mine is a bit of a finger in the air estimate of what I should be charging but I know a few developers who share their rates with me so I know I'm in vaguely the right area, albeit at the lower end.

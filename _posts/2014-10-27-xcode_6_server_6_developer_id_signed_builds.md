@@ -4,6 +4,7 @@ title: Xcode 6, Server 4 & Developer ID Signed Builds
 permalink: 2014-10-27-xcode_6_server_6_developer_id_signed_builds
 categories: cocoa
 layout: post
+share: true
 ---
 
 Now that Xcode 6.1 and OS X Server 4 have been released I decided that it was time to see if I could get my Bots to code sign a client's Mac application with a Developer ID certificate (the application is a business to business one and distributed outside of the Mac App Store). Below are the steps I took. Please note that this is not a complete guide including screenshots and detailed explanations but rather a quick list of what I did to get things working.

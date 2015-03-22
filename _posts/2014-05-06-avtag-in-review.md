@@ -4,6 +4,7 @@ title:  In Review
 permalink: 2014-05-06-avtag-in-review
 categories: avtag
 layout: post
+share: true
 ---
 
 Today avTag went from 'Waiting for Review' to 'In Review'. For non-Apple developers this means that Apple's App Store review team are now reviewing avTag to see if it is suitable for inclusion in the App Store. This review process covers things such as usefulness, stability and adherence to Apple's rules. It's an ideal time for me to do some reviewing too.

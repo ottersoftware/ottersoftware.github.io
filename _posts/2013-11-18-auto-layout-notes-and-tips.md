@@ -4,6 +4,7 @@ title: Auto Layout Notes & Tips
 permalink: 2013-11-18-auto-layout-notes-and-tips
 categories: cocoa
 layout: post
+share: true
 ---
 
 For me the Auto Layout improvements in Xcode 5's Interface Builder made it a usable replacement to the old springs and struts mechanism. Over the last few weeks I've been learning a lot about Auto Layout so I thought it would be a good idea to pass on some of the tricks I've picked up but mainly I wanted to document some of the bits I struggle to remember.

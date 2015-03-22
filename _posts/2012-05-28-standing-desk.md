@@ -4,6 +4,7 @@ title: A Standing Desk
 permalink: 2012-05-28-standing-desk
 categories: personal
 layout: post
+share: true
 ---
 
 A number of developers have built themselves treadmill desks and others have started using standing desks. I'm not going to explain why standing desks are thought to be a good idea; just Google 'standing desk' and you'll find loads of articles and blog posts about why people are starting to adopt them again (they were first popular in the 18th and 19th centuries).

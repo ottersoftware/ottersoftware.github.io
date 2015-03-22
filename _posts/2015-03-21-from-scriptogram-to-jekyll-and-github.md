@@ -4,6 +4,7 @@ title: From Scriptogram to Jekyll and GitHub
 permalink: 2015-03-21-from-scriptogram-to-jekyll-and-github
 categories: general
 layout: post
+share: true
 ---
 
 Since August 2012 I've been hosting my blog on [Scriptgr.am](http://scriptogr.am), a service which pulls Markdown files out of a specific Dropbox folder and publishes them. Sadly the Scriptgr.am service seems to have been abandoned by its creators and the service is now suffering from database errors and poor performance. I'm sad about this because it was a fabulously simple system to use and I think that it could have been made into a comercially viable service (they never charged for it).

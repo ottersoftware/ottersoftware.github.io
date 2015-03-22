@@ -4,6 +4,7 @@ title: The September 2012 Inevitable Punditry Post
 permalink: 2012-09-13-inevitable-punditry
 categories: personal
 layout: post
+share: true
 ---
 
 Yesterday Apple unveiled the [iPhone 5](http://www.apple.com/iphone/), a new [iPod nano](http://www.apple.com/ipod-nano/), a new [iPod touch](http://www.apple.com/ipod-touch/) and gave a brief recap of what people can expect to see in the upcoming [iOS 6](http://www.apple.com/ios/) operating system they will all (apart from the nano) run. I'm not going to repeat what they said because news sources have covered it extensively and you can [watch the presentation](http://www.apple.com/apple-events/september-2012/) if you want to. What I will do however is explain why I'll not be rushing out to buy an iPhone 5 despite being a developer who really should test the apps they write on it due to the new screen size and also why I'm not going to be installing iOS 6 on my phone. Yet.

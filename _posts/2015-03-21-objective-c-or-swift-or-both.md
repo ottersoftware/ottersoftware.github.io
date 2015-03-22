@@ -4,6 +4,7 @@ title: Objective-C or Swift? Or Both...
 permalink: 2015-03-21-objective-c-or-swift-or-both
 categories: cocoa
 layout: post
+share: true
 ---
 
 I have been writing Cocoa applications for seven years and until a couple of weeks ago this had been exclusively using Objective-C. For the last fortnight however I have been tinkering with Swift, Apple's new programming language which was unveiled at WWDC 2014.

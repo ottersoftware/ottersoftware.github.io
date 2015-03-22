@@ -4,6 +4,7 @@ title: Sensible iOS Colour Pickers
 permalink: 2012-11-26-sensible-ios-color-pickers
 categories: cocoa
 layout: post
+share: true
 ---
 
 I'm working on a small iOS project and one of the requirements was to allow users to pick colours for various elements within the UI. Some initial digging revealed that there are a number of open-source options such as [ios-color-picker](https://github.com/fcanas/ios-color-picker), [RSColorPicker](https://github.com/RSully/RSColorPicker) and [ios-color-wheel](http://code.google.com/p/ios-color-wheel/). They all provide a colour wheel or rectangle and allow the user to pick any colour and adjust the brightness. [Color Picker for iOS](https://github.com/hayashi311/Color-Picker-for-iOS) takes a slightly different approach and instead offered a grid of 400 colours although it still allows the user to adjust the brightness:

@@ -4,6 +4,7 @@ title: The School (Bike) Run
 permalink: 2012-06-10-school-bike-run
 categories: cycling
 layout: post
+share: true
 ---
 
 Very occasionally my daughter and I cycle to her school rather than drive. Even more occasionally we'll walk but it takes about 15 or 20 minutes with a distracted seven year old and we're rarely organised enough to leave home on time.

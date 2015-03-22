@@ -4,6 +4,7 @@ title: Ride of my Life - The Story of the Bicycle
 permalink: 2012-04-12-ride-of-my-life
 categories: cycling
 layout: post
+share: true
 ---
 
 If you've been reading my previous posts you'll know that I'm about to rekindle a love of cycling so that I can lose some weight, get fit and generally enrich my life. Over the last few years whilst I skirted around cycling because I didn't fit my expensive bike and it was uncomfortable and just not fun I indulged myself by reading quite a few cycling-related books, mainly travel journals. I'll add some posts about them but I wanted to start with a particular book and the related TV show that I re-watched last night.

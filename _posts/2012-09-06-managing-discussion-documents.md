@@ -4,6 +4,7 @@ title: Managing Discussion Documents
 permalink: 2012-09-06-managing-discussion-documents
 categories: business
 layout: post
+share: true
 ---
 
 One of my clients, [Don McAllister](http://twitter.com/donmcallister), is tech savvy. Not just tech savvy in that he knows how to use a computer but tech savvy in that he can do some of the stuff developers do. He can use [GitHub](https://github.com) and can build code in Xcode allowing him to test things and submit apps to Apple. Today he became a guinea pig after inadvertently proposing an idea to me. I'd given him a first draft of an application outline document as a Markdown file. Don then replied and used [blockquotes](http://daringfireball.net/projects/markdown/syntax#blockquote) in the document to denote his comments. This was enough to trigger an idea about how we might be able to track our discussions.

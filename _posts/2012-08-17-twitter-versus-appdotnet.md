@@ -4,6 +4,7 @@ title: Twitter Versus App.net
 permalink: 2012-08-17-twitter-versus-appdotnet
 categories: technology
 layout: post
+share: true
 ---
 
 Last weekend, a day or so before the self-imposed deadline expired, [App.net](https://join.app.net) reached its funding goal of $500,000 and by the time the initial funding process ended had exceeded it and raised a total of around $800,000. App.net is, as far as I can tell, not meant to be a direct replacement for Twitter. Rather it is a social feed that encourages third-party developers to create applications that utilise its back-end in some, any, manner. Obviously the initial apps, including App.net's own [Alpha](https://alpha.app.net) service all strongly mimic Twitter but I expect that to change over the coming months and years as the API develops and people start to play around with the possibilities.

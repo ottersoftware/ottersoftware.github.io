@@ -4,6 +4,7 @@ title: The Future of Software
 permalink: 2012-08-10-future-of-software
 categories: business
 layout: post
+share: true
 ---
 
 Today I had a brief conversation with James Higgis (@higgis) on Twitter about the value of software. It originated from a comment he made about <a href="http://www.app.net">app.net's</a> attempts to fund a subscription-based alternative to Twitter and whether people would actually pay something like $50 a year for it or whether they would rather have an advert-based, free system.

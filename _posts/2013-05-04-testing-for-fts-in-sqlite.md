@@ -4,6 +4,7 @@ title: Testing for FTS in SQLite
 permalink: 2013-05-04-testing-for-fts-in-sqlite
 categories: cocoa
 layout: post
+share: true
 ---
 
 Since publishing [my post about FTS](http://swwritings.com/post/2013-04-30-searching-for-speedy-searching) a few people have asked me which versions of iOS and OS X support FTS in the bundled version of SQLite. I can confirm that iOS 5.1 does and so does OS X 10.7.5.

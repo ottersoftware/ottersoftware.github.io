@@ -4,6 +4,7 @@ title: Scriptogram Image Handling - An Update
 permalink: 2012-09-07-scriptogram-image-update
 categories: technology
 layout: post
+share: true
 ---
 
 A couple of weeks ago I wrote about [my Scriptogram workflow](http://swwritings.com/post/2012-08-23-scriptogram). One of the areas I was still refining was how to handle images and after some further tinkering I'm using a slightly different approach so I though it would be worth posting a quick update about it.

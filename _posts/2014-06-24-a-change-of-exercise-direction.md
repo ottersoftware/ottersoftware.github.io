@@ -4,6 +4,7 @@ title: A Change of Exercise Direction
 permalink: 2014-06-23-a-change-of-exercise-direction
 categories: rowing
 layout: post
+share: true
 ---
 
 If you're a long-time visitor you'll probably know about my attempts to get fit and lose weight by [cycling](http://swwritings.com/tag/cycling). Back in May I felt I was finally making a bit of progress and then my knee became incredibly painful and stayed that way for three weeks. Even when it felt generally better it was still painful to cycle and I worried that I was causing it more damage. It was time to try something new.

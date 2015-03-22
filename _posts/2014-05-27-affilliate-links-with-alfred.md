@@ -4,6 +4,7 @@ title: Affiliate Links with Alfred
 permalink: 2014-05-27-affilliate-links-with-alfred
 categories: business
 layout: post
+share: true
 ---
 
 When I released [avTag](http://avtag.it) I also signed up to Apple's iTunes Affiliate Program ([US Link](http://www.apple.com/itunes/affiliates/) | [UK Link](http://www.apple.com/uk/itunes/affiliates/)). It's a simple way to earn money when people buy iTunes items (music, films, iBooks, apps, etc.) via links you have supplied. After signing up all you need to do is append your affiliate program token to the end of an item's URL. [David Smith](http://twitter.com/_DavidSmith) has [a more detailed write-up](http://david-smith.org/blog/2013/08/19/itunes-affiliate-linking/) which is worth reading.
