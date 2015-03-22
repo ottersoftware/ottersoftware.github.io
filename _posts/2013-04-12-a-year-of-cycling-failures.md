@@ -4,6 +4,7 @@ title: A Year of Cycling Failures
 permalink: 2013-04-12-a-year-of-cycling-failures
 categories: cycling
 layout: post
+share: true
 ---
 
 I sat down to write this post without realising that it was just over a year ago that I wrote a post covering a lot of what I wanted to write about today... only more optimistically. Having deleted the original draft of today's post I can now just link to [last year's](http://swwritings.com/post/2012-04-10-getting-back-on-a-bike) which was all about my intention to buy a bike, cycle, lose weight and get fit. Easy, right? Well no. I failed miserably in 2012.

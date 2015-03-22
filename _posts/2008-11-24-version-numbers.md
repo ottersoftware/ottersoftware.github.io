@@ -4,6 +4,7 @@ title: Version Numbers
 permalink: 2008-11-24-version-numbers
 categories: cocoa
 layout: post
+share: true
 ---
 
 ### The Core Intuition Podcast

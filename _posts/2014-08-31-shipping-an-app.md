@@ -4,6 +4,7 @@ title: Shipping An App
 permalink: 2014-08-31-shipping-an-app
 categories: business
 layout: post
+share: true
 ---
 
 [avTag](#avtag) was finally released back at the start of May after a development period that spanned something like three years. Since then I've released a couple of minor version to fix some bugs as well as adding a few features which I _originally_ felt should have been in the initial release. In fact this weekend has been spent adding some more of those features to what will become version 1.2.

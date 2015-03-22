@@ -4,6 +4,7 @@ title: Managing Sent Emails
 permalink: 2012-06-28-managing-sent-emails
 categories: technology
 layout: post
+share: true
 ---
 
 A large proportion of the emails I send don't need to be kept but I am not disciplined enough to send or reply to an email and then switch to the sent items folder and delete them immediately. This is why my sent items folder currently contains over 2,000 messages. For quite some time now, I've been looking for a way to flag an email so that as soon as it has been sent it can be deleted or at least moved to the trash folder. Today I found it.

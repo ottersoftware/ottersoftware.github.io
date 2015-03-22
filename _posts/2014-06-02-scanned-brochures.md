@@ -4,6 +4,7 @@ title: Scanned Brochures
 permalink: 2014-06-02-scanned-brochures
 categories: technology
 layout: post
+share: true
 ---
 
 This weekend I had a bit of a catch-up scanning session (I try to be paperless and you can read a few notes about it from a podcast episode I recorded in my ['Getting Organised'](http://swwritings.com/post/2012-02-17-getting-organised) post) and inevitably encountered my scanning Achilles heel... booklets. This time there were three insurance policy booklets, one credit card information guide and one instruction manual. In the past I tended to cut them in half and then scan it all in so that I'd have all of the pages in the proper order. This time I decided to do something slightly more high-tech...

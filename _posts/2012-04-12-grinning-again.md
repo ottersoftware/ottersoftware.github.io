@@ -4,6 +4,7 @@ title: Grinning Again
 permalink: 2012-04-12-grinning-again
 categories: cycling
 layout: post
+share: true
 ---
 
 This afternoon my daughter and I picked up my new [Trek 7.3 FX](http://www.trekbikes.com/uk/en/bikes/town/recreation/fx/7_3_fx/) from [John's Bikes](http://www.johnsbikes.co.uk) in Bath.

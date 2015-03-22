@@ -4,6 +4,7 @@ title: Getting Back On A Bike
 permalink: 2012-04-10-getting-back-on-a-bike
 categories: cycling
 layout: post
+share: true
 ---
 
 For the last decade or so I've been overweight and horribly unfit. For the last five or six years I've been meaning to do something about it but inevitably haven't. Last week I was out with my daughter and realised that even walking up a moderate hill was raising my heart rate and that I now really need to do something about it.

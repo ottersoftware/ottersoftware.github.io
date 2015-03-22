@@ -4,6 +4,7 @@ title: Avoiding Drobo Woes
 permalink: 2013-09-21-avoiding-drobo-woes
 categories: technology
 layout: post
+share: true
 ---
 
 ***Updated:** Please see an update at the end of this post about how it all turned out.*

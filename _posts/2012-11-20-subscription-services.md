@@ -4,6 +4,7 @@ title: Subscription Services
 permalink: 2012-11-20-subscription-services
 categories: business
 layout: post
+share: true
 ---
 
 ### Introduction

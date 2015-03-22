@@ -4,6 +4,7 @@ title: Mentoring and Code Reviews
 permalink: 2012-08-13-mentoring-and-code-reviews
 categories: business
 layout: post
+share: true
 ---
 
 A fellow developer, let's call him John, approached me recently to ask if I would take on some paid work, essentially helping him to finish off and fix some issues in his first major iOS project. I agreed and subsequently decided that it was outrageous for me to charge for the work and that it was time for me to repay a similar favour someone did for me.

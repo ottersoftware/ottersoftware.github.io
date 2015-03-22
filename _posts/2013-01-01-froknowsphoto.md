@@ -4,6 +4,7 @@ title: The Fro Knows Photo Video Guide
 permalink: 2013-01-01-froknowsphoto
 categories: photography
 layout: post
+share: true
 ---
 
 During my [re-discovery of photography](http://swwritings.com/post/2013-01-01-snappy-new-year/) I came across a very charismatic photographer who produces a lot of YouTube videos about photography, a guy called [Jared Polen](http://jaredpolin.com). Jared isn't infallible (his technical explanation of bokeh in [one of his YouTube videos](http://www.youtube.com/watch?v=9C8aD66nGL8) was quite confused) but he gives great advice in a wonderfully approachable and digestible format via his [Fro Knows Photo](http://froknowsphoto.com) site.

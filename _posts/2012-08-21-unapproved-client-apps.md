@@ -4,6 +4,7 @@ title: Unapproved Client Apps
 permalink: 2012-08-22-unapproved-client-apps
 categories: business
 layout: post
+share: true
 ---
 
 ***The apps have been re-approved. Details at the end of this post.***

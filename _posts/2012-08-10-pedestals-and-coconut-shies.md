@@ -4,6 +4,7 @@ title: Pedestals and Coconut Shies
 permalink: 2012-08-10-pedestals-and-coconut-shies
 categories: personal
 layout: post
+share: true
 ---
 
 For over four years I've been writing Cocoa code for OS X and iOS. One thing I particularly loved when I made the transition from writing code for Windows was that the community was a very friendly place. You could email another developer and ask them a question about how, for example, they had done something in an application and quite often you would not only get a reply but also some source code to help you along. Granted 2008 was pre-iPhone and the explosion in Cocoa developers but the larger number of developers seem to have strengthened the community, not weakened it.

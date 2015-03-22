@@ -4,6 +4,7 @@ title: Choosing A Bike And A Local Bike Shop
 permalink: 2012-04-10-choosing-bike-and-local-bike-shop
 categories: cycling
 layout: post
+share: true
 ---
 
 Having decided that I wanted to start cycling again I had two big decisions to make. The first is what bike I was going to get. The second was where I was going to get it from. Oddly, in some ways the latter is more important, particularly because it can help with the former.

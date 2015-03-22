@@ -4,6 +4,7 @@ title: Learning C Programming and Code Runner
 permalink: 2012-09-11-learning-c-programming-and-code-runner
 categories: personal
 layout: post
+share: true
 ---
 
 For the last four and a half years I've been developing OS X and iOS software using the [Objective-C](http://en.wikipedia.org/wiki/Objective-C) programming language. Whilst I have very few problems with Objective-C itself I do occasionally find myself having to drop down into C and this is something I do tend to struggle with. The problem is that my development career (around 18 years now) has never encompassed C itself and, despite Objective-C being a superset of C, not having to write C code means that I'm not comfortable with it and certainly don't embrace it. This is something I'm now going to fix.

@@ -4,6 +4,7 @@ title: Embedding Fonts
 permalink: 2009-07-05-embedding-fonts
 categories: cocoa
 layout: post
+share: true
 ---
 
 I'm working on an application that needs to display the current timecode of a movie file. I wanted to create a display that looked something like an old-school VCR clock and found a font whose license allowed me to distribute it freely. The next problem was being able include the font in my application's bundle rather than having to have it installed in one of the traditional font folders. Fortunately this turned out to be easier than I expected.

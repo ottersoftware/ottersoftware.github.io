@@ -4,6 +4,7 @@ title: The Unofficial, Sometime Unknowing, Support Group
 permalink: 2012-05-06-support-group
 categories: personal
 layout: post
+share: true
 ---
 
 Ever since I decided to fight back against my expanding waistline and completely sedentary lifestyle I've become more attuned to other people I follow or interact with on Twitter doing the same. Just seeing the odd message from people saying how they are getting on and reminding their followers about what they are doing is immensely  encouraging and uplifting.

@@ -4,6 +4,7 @@ title: NSError and the Potential Null Dereference Warning
 permalink: 2012-10-04-nserror-potential-null-dereference
 categories: cocoa
 layout: post
+share: true
 ---
 
 Clang may generate warnings about potential null dereference when you are using return-by-reference NSError objects. It is essentially warning you that someone calling the method might pass NULL as the NSError parameter which means that you cannot set it to something else. If you do the application will crash.
