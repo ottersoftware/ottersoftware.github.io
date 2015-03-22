@@ -1,7 +1,6 @@
 ---
 date: 2012-04-12 20:42
 title: Targets and Timescales
-permalink: 2012-04-12-targets-and-timescales
 categories: cycling
 layout: post
 share: true

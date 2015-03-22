@@ -1,7 +1,6 @@
 ---
 date: 2012-09-06 10:08
 title: Managing Discussion Documents
-permalink: 2012-09-06-managing-discussion-documents
 categories: business
 layout: post
 share: true

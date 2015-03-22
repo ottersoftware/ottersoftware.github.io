@@ -1,7 +1,6 @@
 ---
 date: 2012-11-26 18:17
 title: Sensible iOS Colour Pickers
-permalink: 2012-11-26-sensible-ios-color-pickers
 categories: cocoa
 layout: post
 share: true

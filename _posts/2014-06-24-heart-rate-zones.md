@@ -1,7 +1,6 @@
 ---
 date: 2014-06-24 13:22
 title: Heart Rate Zones
-permalink: 2014-06-24-heart-rate-zones
 categories: rowing
 layout: post
 share: true

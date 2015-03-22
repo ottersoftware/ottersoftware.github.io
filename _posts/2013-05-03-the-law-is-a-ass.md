@@ -1,7 +1,6 @@
 ---
 date: 2013-05-03 12:37
 title: The Law Is A Ass
-permalink: 2013-05-03-the-law-is-a-ass
 categories: cycling
 layout: post
 share: true

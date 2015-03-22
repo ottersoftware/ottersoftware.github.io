@@ -1,7 +1,6 @@
 ---
 date: 2012-09-07 12:44
 title: Scriptogram Image Handling - An Update
-permalink: 2012-09-07-scriptogram-image-update
 categories: technology
 layout: post
 share: true

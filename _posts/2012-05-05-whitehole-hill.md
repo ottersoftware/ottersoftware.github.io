@@ -1,7 +1,6 @@
 ---
 date: 2012-05-05 15:58
 title: Whitehole Hill - My First Nemesis
-permalink: 2012-05-05-whitehole-hill
 categories: cycling
 layout: post
 share: true

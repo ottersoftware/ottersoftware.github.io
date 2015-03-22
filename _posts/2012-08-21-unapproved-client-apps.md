@@ -1,7 +1,6 @@
 ---
 date: 2012-08-22 11:54
 title: Unapproved Client Apps
-permalink: 2012-08-22-unapproved-client-apps
 categories: business
 layout: post
 share: true

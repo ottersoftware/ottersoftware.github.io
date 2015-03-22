@@ -1,7 +1,6 @@
 ---
 date: 2012-08-10 22:43
 title: Pedestals and Coconut Shies
-permalink: 2012-08-10-pedestals-and-coconut-shies
 categories: personal
 layout: post
 share: true

@@ -1,7 +1,6 @@
 ---
 date: 2014-05-20 18:10
 title: Consistency
-permalink: 2014-05-20-consistency
 categories: cocoa
 layout: post
 share: true

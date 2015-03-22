@@ -1,7 +1,6 @@
 ---
 date: 2013-01-01 12:00
 title: Snappy New Year
-permalink: 2013-01-01-snappy-new-year
 categories: photography
 layout: post
 share: true

@@ -1,7 +1,6 @@
 ---
 date: 2010-04-27 22:37
 title: Spot Color and Developer Color Picker
-permalink: 2010-04-27-spot-color-and-developer-color-picker
 categories: cocoa
 layout: post
 share: true

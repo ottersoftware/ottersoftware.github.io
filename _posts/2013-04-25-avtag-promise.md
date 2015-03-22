@@ -1,7 +1,6 @@
 ---
 date: 2013-04-25 20:15
 title: An avTag Promise
-permalink: 2013-04-25-avtag-promise
 categories: avtag
 layout: post
 share: true

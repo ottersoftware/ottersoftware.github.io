@@ -1,7 +1,6 @@
 ---
 date: 2015-03-21 18:09
 title: From Scriptogram to Jekyll and GitHub
-permalink: 2015-03-21-from-scriptogram-to-jekyll-and-github
 categories: general
 layout: post
 share: true

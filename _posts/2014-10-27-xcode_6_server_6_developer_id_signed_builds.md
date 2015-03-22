@@ -1,7 +1,6 @@
 ---
 date: 2014-10-27 11:33
 title: Xcode 6, Server 4 & Developer ID Signed Builds
-permalink: 2014-10-27-xcode_6_server_6_developer_id_signed_builds
 categories: cocoa
 layout: post
 share: true

@@ -1,7 +1,6 @@
 ---
 date: 2013-04-25 19:45
 title: WWDC Labs Without WWDC
-permalink: 2013-04-25-wwdc-labs-without-wwdc
 categories: cocoa
 layout: post
 share: true

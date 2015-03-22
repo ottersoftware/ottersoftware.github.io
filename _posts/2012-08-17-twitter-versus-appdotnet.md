@@ -1,7 +1,6 @@
 ---
 date: 2012-08-17 17:16
 title: Twitter Versus App.net
-permalink: 2012-08-17-twitter-versus-appdotnet
 categories: technology
 layout: post
 share: true

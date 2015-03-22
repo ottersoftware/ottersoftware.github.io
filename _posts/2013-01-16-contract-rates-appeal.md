@@ -1,7 +1,6 @@
 ---
 date: 2013-01-16 12:15
 title: Cocoa Contract Developer Rates - The Appeal
-permalink: 2013-01-16-contract-rates-appeal
 categories: business
 layout: post
 share: true

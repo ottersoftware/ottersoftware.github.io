@@ -1,7 +1,6 @@
 ---
 date: 2012-04-03 17:53
 title: TP-Link TL-PA211 Powerline Adapters
-permalink: 2012-04-03-powerline-adapters
 categories: technology
 layout: post
 share: true

@@ -1,7 +1,6 @@
 ---
 date: 2014-08-31 12:46
 title: Shipping An App
-permalink: 2014-08-31-shipping-an-app
 categories: business
 layout: post
 share: true

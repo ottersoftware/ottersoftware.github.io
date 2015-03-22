@@ -1,7 +1,6 @@
 ---
 date: 2012-10-04 16:00
 title: Handling Indirectly Returned NSError Objects Properly
-permalink: 2012-10-04-handling-indirectly-returned-nserror-objects-properly
 categories: cocoa
 layout: post
 share: true

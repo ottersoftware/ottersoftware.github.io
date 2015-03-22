@@ -1,7 +1,6 @@
 ---
 date: 2012-08-10 17:45
 title: The Future of Software
-permalink: 2012-08-10-future-of-software
 categories: business
 layout: post
 share: true

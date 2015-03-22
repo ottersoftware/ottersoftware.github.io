@@ -1,7 +1,6 @@
 ---
 date: 2012-08-27 15:57
 title: BT - The Follow-Up
-permalink: 2012-08-27-bt-follow-up
 categories: personal
 layout: post
 share: true

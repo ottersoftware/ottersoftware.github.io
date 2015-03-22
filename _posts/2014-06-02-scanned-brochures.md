@@ -1,7 +1,6 @@
 ---
 date: 2014-06-02 10:59
 title: Scanned Brochures
-permalink: 2014-06-02-scanned-brochures
 categories: technology
 layout: post
 share: true

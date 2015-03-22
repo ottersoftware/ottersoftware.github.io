@@ -1,7 +1,6 @@
 ---
 date: 2012-04-12 18:38
 title: Grinning Again
-permalink: 2012-04-12-grinning-again
 categories: cycling
 layout: post
 share: true

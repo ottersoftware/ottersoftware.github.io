@@ -1,7 +1,6 @@
 ---
 date: 2011-08-12 12:42
 title: Xcode and the Developer Tools Group
-permalink: 2011-08-12-xcode-developer-tools-group
 categories: cocoa
 layout: post
 share: true

@@ -1,7 +1,6 @@
 ---
 date: 2012-06-02 16:50
 title: General Exercise Update
-permalink: 2012-06-02-general-exercise-update
 categories: personal
 layout: post
 share: true

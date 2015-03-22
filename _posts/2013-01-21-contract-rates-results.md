@@ -1,7 +1,6 @@
 ---
 date: 2013-01-21 10:15
 title: Cocoa Contract Developer Rates - The Results
-permalink: 2013-01-21-contract-rates-results
 categories: business
 layout: post
 share: true

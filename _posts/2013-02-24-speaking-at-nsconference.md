@@ -1,7 +1,6 @@
 ---
 date: 2013-02-24 13:15
 title: Speaking at NSConference
-permalink: 2013-02-24-speaking-at-nsconference
 categories: business
 layout: post
 share: true

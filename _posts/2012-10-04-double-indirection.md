@@ -1,7 +1,6 @@
 ---
 date: 2012-10-04 11:42
 title: Double Indirection
-permalink: 2012-10-04-double-indirection
 categories: cocoa
 layout: post
 share: true

@@ -1,7 +1,6 @@
 ---
 date: 2015-03-21 13:26
 title: Objective-C or Swift? Or Both...
-permalink: 2015-03-21-objective-c-or-swift-or-both
 categories: cocoa
 layout: post
 share: true

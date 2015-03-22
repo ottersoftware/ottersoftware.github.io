@@ -1,7 +1,6 @@
 ---
 date: 2012-12-09 22:03
 title: Local Bookshops
-permalink: 2012-12-09-local-bookshops
 categories: personal
 layout: post
 share: true

@@ -1,7 +1,6 @@
 ---
 date: 2012-05-28 18:52
 title: A Standing Desk
-permalink: 2012-05-28-standing-desk
 categories: personal
 layout: post
 share: true

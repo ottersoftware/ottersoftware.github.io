@@ -1,7 +1,6 @@
 ---
 date: 2012-05-06 17:28
 title: The Unofficial, Sometime Unknowing, Support Group
-permalink: 2012-05-06-support-group
 categories: personal
 layout: post
 share: true

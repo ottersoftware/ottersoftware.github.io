@@ -1,7 +1,6 @@
 ---
 date: 2012-04-10 12:46
 title: Getting Back On A Bike
-permalink: 2012-04-10-getting-back-on-a-bike
 categories: cycling
 layout: post
 share: true

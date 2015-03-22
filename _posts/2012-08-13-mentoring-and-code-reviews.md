@@ -1,7 +1,6 @@
 ---
 date: 2012-08-13 22:12
 title: Mentoring and Code Reviews
-permalink: 2012-08-13-mentoring-and-code-reviews
 categories: business
 layout: post
 share: true
