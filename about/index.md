@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the blog of Simon Wolf. By day I am a Mac, iPhone and iPad developer but I am also a single parent, indoor rower and a very amateur photographer.
+My name is Simon Wolf. By day I am a Mac, iPhone and iPad developer but I am also a single parent, indoor rower and a very amateur photographer.
 
 I run my own company, [Otter Software](http://www.ottersoftware.com), and I live in England in a small village in the Mendip Hills. My nearest town is [Frome](http://www.discoverfrome.co.uk/frome/), famed for its independent shops, great markets and [Festival](http://www.fromefestival.co.uk) amongst other things.
 
