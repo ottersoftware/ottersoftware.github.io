@@ -1,7 +1,7 @@
 ---
 date: 2015-01-02 21:32
 title: Rowing LEJOG
-permalink: /posts/2015-01-02-rowing-lejog
+permalink: /post/2015-01-02-rowing-lejog
 categories: rowing
 layout: post
 share: true

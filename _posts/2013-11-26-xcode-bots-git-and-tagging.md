@@ -1,7 +1,7 @@
 ---
 date: 2013-11-26 12:34
 title: Xcode Bots, Git and Tagging
-permalink: /posts/2013-11-26-xcode-bots-git-and-tagging
+permalink: /post/2013-11-26-xcode-bots-git-and-tagging
 categories: cocoa
 layout: post
 share: true

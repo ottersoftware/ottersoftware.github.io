@@ -1,7 +1,7 @@
 ---
 date: 2012-08-29 23:29
 title: An Introduction to avTag
-permalink: /posts/2012-08-29-introduction-to-avtag
+permalink: /post/2012-08-29-introduction-to-avtag
 categories: avtag
 layout: post
 share: true

@@ -1,7 +1,7 @@
 ---
 date: 2014-04-22 14:37
 title: Puncturing Fear
-permalink: /posts/2014-04-22-puncturing-fear
+permalink: /post/2014-04-22-puncturing-fear
 categories: cycling
 layout: post
 share: true

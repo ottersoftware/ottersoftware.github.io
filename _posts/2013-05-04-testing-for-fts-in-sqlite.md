@@ -1,7 +1,7 @@
 ---
 date: 2013-05-04 11:59
 title: Testing for FTS in SQLite
-permalink: /posts/2013-05-04-testing-for-fts-in-sqlite
+permalink: /post/2013-05-04-testing-for-fts-in-sqlite
 categories: cocoa
 layout: post
 share: true

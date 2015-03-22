@@ -1,7 +1,7 @@
 ---
 date: 2012-05-25 23:25
 title: Better Than New
-permalink: /posts/2012-05-23-better-than-new
+permalink: /post/2012-05-23-better-than-new
 categories: cycling
 layout: post
 share: true

@@ -1,7 +1,7 @@
 ---
 date: 2012-08-23 20:43
 title: Scriptogr.am
-permalink: /posts/2012-08-23-scriptogram
+permalink: /post/2012-08-23-scriptogram
 categories: technology
 layout: post
 share: true

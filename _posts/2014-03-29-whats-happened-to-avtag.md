@@ -1,7 +1,7 @@
 ---
 date: 2014-03-29 21:35
 title: What's Happened to avTag?
-permalink: /posts/2014-03-29-whats-happened-to-avtag
+permalink: /post/2014-03-29-whats-happened-to-avtag
 categories: avtag
 layout: post
 share: true

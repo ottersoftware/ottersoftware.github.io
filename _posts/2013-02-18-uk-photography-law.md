@@ -1,7 +1,7 @@
 ---
 date: 2013-02-18 18:24
 title: UK Photography Law... As I Understand It
-permalink: /posts/2013-02-18-uk-photography-law
+permalink: /post/2013-02-18-uk-photography-law
 categories: photography
 layout: post
 share: true

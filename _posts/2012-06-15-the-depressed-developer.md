@@ -1,7 +1,7 @@
 ---
 date: 2012-06-15 10:15
 title: The Depressed Developer
-permalink: /posts/2012-06-15-the-depressed-developer
+permalink: /post/2012-06-15-the-depressed-developer
 categories: personal
 layout: post
 share: true

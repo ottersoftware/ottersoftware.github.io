@@ -1,7 +1,7 @@
 ---
 date: 2012-10-04 17:00
 title: NSError and the Potential Null Dereference Warning
-permalink: /posts/2012-10-04-nserror-potential-null-dereference
+permalink: /post/2012-10-04-nserror-potential-null-dereference
 categories: cocoa
 layout: post
 share: true

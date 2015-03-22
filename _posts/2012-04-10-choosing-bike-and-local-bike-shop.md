@@ -1,7 +1,7 @@
 ---
 date: 2012-04-10 12:46
 title: Choosing A Bike And A Local Bike Shop
-permalink: /posts/2012-04-10-choosing-bike-and-local-bike-shop
+permalink: /post/2012-04-10-choosing-bike-and-local-bike-shop
 categories: cycling
 layout: post
 share: true

@@ -1,7 +1,7 @@
 ---
 date: 2011-11-03 12:10
 title: AVFoundation Overview
-permalink: /posts/2011-11-03-avfoundation-overview
+permalink: /post/2011-11-03-avfoundation-overview
 categories: cocoa
 layout: post
 share: true

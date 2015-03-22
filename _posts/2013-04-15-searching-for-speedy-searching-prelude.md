@@ -1,7 +1,7 @@
 ---
 date: 2013-04-15 10:00
 title: Searching for Speedy Searching - The Prelude
-permalink: /posts/2013-04-15-searching-for-speedy-searching-prelude
+permalink: /post/2013-04-15-searching-for-speedy-searching-prelude
 categories: cocoa
 layout: post
 share: true

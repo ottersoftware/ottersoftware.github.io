@@ -1,7 +1,7 @@
 ---
 date: 2013-04-12 18:58
 title: A Year of Cycling Failures
-permalink: /posts/2013-04-12-a-year-of-cycling-failures
+permalink: /post/2013-04-12-a-year-of-cycling-failures
 categories: cycling
 layout: post
 share: true

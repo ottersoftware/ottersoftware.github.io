@@ -1,7 +1,7 @@
 ---
 date: 2013-02-27 21:33
 title: NSConference Tips
-permalink: /posts/2013-02-27-nsconference-tips
+permalink: /post/2013-02-27-nsconference-tips
 categories: business
 layout: post
 share: true

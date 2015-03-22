@@ -1,7 +1,7 @@
 ---
 date: 2012-10-16 12:40
 title: Functions vs Classes & Methods
-permalink: /posts/2012-10-16-functions-versus-classes-and-methods
+permalink: /post/2012-10-16-functions-versus-classes-and-methods
 categories: cocoa
 layout: post
 share: true

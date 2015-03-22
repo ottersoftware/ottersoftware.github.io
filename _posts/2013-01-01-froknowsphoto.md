@@ -1,7 +1,7 @@
 ---
 date: 2013-01-01 14:00
 title: The Fro Knows Photo Video Guide
-permalink: /posts/2013-01-01-froknowsphoto
+permalink: /post/2013-01-01-froknowsphoto
 categories: photography
 layout: post
 share: true

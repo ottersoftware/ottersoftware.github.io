@@ -1,7 +1,7 @@
 ---
 date: 2013-05-20 10:09
 title: Concurrent Debug, Beta and App Store Builds 
-permalink: /posts/2013-05-20-concurrent-debug-beta-app-store-builds
+permalink: /post/2013-05-20-concurrent-debug-beta-app-store-builds
 categories: cocoa
 layout: post
 share: true

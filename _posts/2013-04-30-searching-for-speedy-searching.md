@@ -1,7 +1,7 @@
 ---
 date: 2013-04-30 12:00
 title: Searching For Speedy Searching
-permalink: /posts/2013-04-30-searching-for-speedy-searching
+permalink: /post/2013-04-30-searching-for-speedy-searching
 categories: cocoa
 layout: post
 share: true

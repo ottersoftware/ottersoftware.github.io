@@ -1,7 +1,7 @@
 ---
 date: 2012-09-11 21:31
 title: Learning C Programming and Code Runner
-permalink: /posts/2012-09-11-learning-c-programming-and-code-runner
+permalink: /post/2012-09-11-learning-c-programming-and-code-runner
 categories: personal
 layout: post
 share: true

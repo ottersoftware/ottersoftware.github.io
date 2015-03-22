@@ -1,7 +1,7 @@
 ---
 date: 2014-05-23 15:54
 title: Evolution of a User Interface
-permalink: /posts/2014-05-23-evolution-of-a-user-interface
+permalink: /post/2014-05-23-evolution-of-a-user-interface
 categories: avtag
 layout: post
 share: true

@@ -1,7 +1,7 @@
 ---
 date: 2013-05-01 11:52
 title: Perspective Is Terribly Important
-permalink: /posts/2013-05-01-perspective-is-terribly-important
+permalink: /post/2013-05-01-perspective-is-terribly-important
 categories: technology
 layout: post
 share: true

@@ -1,7 +1,7 @@
 ---
 date: 2014-05-06 20:32
 title:  In Review
-permalink: /posts/2014-05-06-avtag-in-review
+permalink: /post/2014-05-06-avtag-in-review
 categories: avtag
 layout: post
 share: true

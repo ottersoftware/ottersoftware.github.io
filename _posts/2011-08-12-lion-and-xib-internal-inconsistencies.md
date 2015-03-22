@@ -1,7 +1,7 @@
 ---
 date: 2011-08-12 12:12
 title: Lion and XIB Internal Inconsistencies
-permalink: /posts/2011-08-12-lion-and-xib-internal-inconsistencies
+permalink: /post/2011-08-12-lion-and-xib-internal-inconsistencies
 categories: cocoa
 layout: post
 share: true

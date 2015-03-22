@@ -1,7 +1,7 @@
 ---
 date: 2013-06-03 15:01
 title: avTag 1.0b1
-permalink: /posts/2013-06-03-avtag-first-beta
+permalink: /post/2013-06-03-avtag-first-beta
 categories: avtag
 layout: post
 share: true

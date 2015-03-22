@@ -1,7 +1,7 @@
 ---
 date: 2012-04-10 15:07
 title: John's Bikes in Bath And My Trek 7.3 FX
-permalink: /posts/2012-04-10-johns-bikes-trek-73fx
+permalink: /post/2012-04-10-johns-bikes-trek-73fx
 categories: cycling
 layout: post
 share: true

@@ -5,7 +5,7 @@ locale: en_UK
 description: Sometimes random, occasionally focused, rarely proof-read.
 logo: 
 search: false
-url: http://www.swwritings.com
+url: #http://www.swwritings.com
 
 # Jekyll configuration
 

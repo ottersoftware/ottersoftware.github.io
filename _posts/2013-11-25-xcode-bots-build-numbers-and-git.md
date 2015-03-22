@@ -1,7 +1,7 @@
 ---
 date: 2013-11-25 16:40
 title: Xcode Bots, Build Numbers & Git
-permalink: /posts/2013-11-25-xcode-bots-build-numbers-and-git
+permalink: /post/2013-11-25-xcode-bots-build-numbers-and-git
 categories: cocoa
 layout: post
 share: true

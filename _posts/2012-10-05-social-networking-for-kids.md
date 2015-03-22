@@ -1,7 +1,7 @@
 ---
 date: 2012-10-05 13:54
 title: Social Networking for Kids
-permalink: /posts/2012-10-05-social-networking-for-kids
+permalink: /post/2012-10-05-social-networking-for-kids
 categories: personal
 layout: post
 share: true

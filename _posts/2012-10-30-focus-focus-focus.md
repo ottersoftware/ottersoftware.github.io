@@ -1,7 +1,7 @@
 ---
 date: 2012-10-30 20:58
 title: Focus... Focus... Focus...
-permalink: /posts/2012-10-30-focus-focus-focus
+permalink: /post/2012-10-30-focus-focus-focus
 categories: avtag
 layout: post
 share: true

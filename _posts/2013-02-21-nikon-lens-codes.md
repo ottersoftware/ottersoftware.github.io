@@ -1,7 +1,7 @@
 ---
 date: 2013-02-21 21:06
 title: Nikon Lens Codes
-permalink: /posts/2013-02-21-nikon-lens-codes
+permalink: /post/2013-02-21-nikon-lens-codes
 categories: photography
 layout: post
 share: true
