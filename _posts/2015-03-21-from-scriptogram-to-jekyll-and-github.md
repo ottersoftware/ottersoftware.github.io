@@ -14,3 +14,9 @@ Over the last few days I've been looking for an alternative service and I've set
 This setup essentially involves me tweaking my old Scriptogr.am Markdown files slightly and keeping them into a folder which is a GitHub repository rather than a Dropbox folder (although they could conceivably be the same it's unnecessary and I remember stories of repositories becoming corrupt if they were in Dropbox). When I add a post or change an old one I simply need to commit it and GitHub re-publishes the blog. Really it's very similar to what Scriptogr.am was doing with Dropbox but a bit less user-friendly.
 
 Over the next few days I will be migrating my old blog files and tweaking the layout so please bear with me if things are a bit odd for a little while.
+
+---
+
+*Updated on 22 March 2015*
+
+The migration went much more easily than I thought it would and is now essentially complete fewer than 24 hours later.
