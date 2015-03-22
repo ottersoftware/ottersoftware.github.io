@@ -4,7 +4,6 @@ title: Minimum Shutter Speeds for Hand Held Photos
 permalink: 2013-01-01-minimum-shutter-speeds
 categories: photography
 layout: post
-share: true
 ---
 
 Whilst browsing through the [Fro Knows Photo forums](http://froknowsphoto.com/forums/) I came across a very handy bit of information. When you are hand-holding your camera then you shouldn't let the shutter speed go below the focal length of the lens.

@@ -4,7 +4,6 @@ title: Functions vs Classes & Methods
 permalink: 2012-10-16-functions-versus-classes-and-methods
 categories: cocoa
 layout: post
-share: true
 ---
 
 A couple of weeks ago I wrote about [double indirection](http://swwritings.com/post/2012-10-04-double-indirection) and one of the benefits of doing so, apart from getting it all straight in my head, was that I've started to use it myself, particularly in a client's project where I'm doing a lot of date manipulation (go and watch the WWDC 2011 video for session 117, Performing Calendar Calculations if you're doing something similar). This project and the date manipulation functionality also allowed me to advance [my goal to become more comfortable with C](http://swwritings.com/post/2012-09-11-learning-c-programming-and-code-runner) and rather than creating a date management class and methods or creating an NSDate category I've been creating functions instead.

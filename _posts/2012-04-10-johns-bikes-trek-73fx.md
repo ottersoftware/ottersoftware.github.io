@@ -4,7 +4,6 @@ title: John's Bikes in Bath And My Trek 7.3 FX
 permalink: 2012-04-10-johns-bikes-trek-73fx
 categories: cycling
 layout: post
-share: true
 ---
 
 Today's shopping expedition has been a success. The store I'd picked as my first choice, [John's Bikes](http://www.johnsbikes.co.uk/) in Bath, came up trumps and I've ordered my new bike, a [Trek 7.3 FX](http://www.trekbikes.com/uk/en/bikes/road/fitness/fx/7_3_fx/#). Particular thanks go to Joe who served me.

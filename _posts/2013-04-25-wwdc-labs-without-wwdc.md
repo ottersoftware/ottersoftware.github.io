@@ -4,7 +4,6 @@ title: WWDC Labs Without WWDC
 permalink: 2013-04-25-wwdc-labs-without-wwdc
 categories: cocoa
 layout: post
-share: true
 ---
 
 Today the 5,000 or so tickets for [WWDC](http://developer.apple.com/wwdc/), Apple's annual developer conference, sold out in a couple of minutes. That's a new record. In 2008 the conference sold out for the first time but it took two months. In 2009 it sold out in one month, in 2010 it took a week. 2011 took that down to a day and in 2012 the tickets were available for 70 minutes. The increasing demand for tickets is despite Apple making the session videos freely available within days of the conference and this year they are intending to [post videos of the sessions during the conference](https://developer.apple.com/wwdc/more/).

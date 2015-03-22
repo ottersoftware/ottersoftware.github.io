@@ -4,7 +4,6 @@ title: BT - The Follow-Up
 permalink: 2012-08-27-bt-follow-up
 categories: personal
 layout: post
-share: true
 ---
 
 On Saturday evening I wrote [a blog post about the nightmare I'd been having with BT](http://swwritings.com/post/2012-08-25-the-disgrace-that-is-bt). After publishing it I decided to email a link to [Ian Livingston](http://en.wikipedia.org/wiki/Ian_Livingston), the Chief Executive of BT Group. Things started to happen after that.

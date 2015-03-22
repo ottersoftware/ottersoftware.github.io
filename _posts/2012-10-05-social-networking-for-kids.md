@@ -4,7 +4,6 @@ title: Social Networking for Kids
 permalink: 2012-10-05-social-networking-for-kids
 categories: personal
 layout: post
-share: true
 ---
 
 My daughter is seven and a half and wants an iPod touch for Christmas. She uses my iPad for games, videos and music and my Mac for things like Club Penguin. She is tech-savvy and keen to expand her computer knowledge. The problem is that I'm not sure how to moderate it.

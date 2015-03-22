@@ -4,7 +4,6 @@ title: Lion and XIB Internal Inconsistencies
 permalink: 2011-08-12-lion-and-xib-internal-inconsistencies
 categories: cocoa
 layout: post
-share: true
 ---
 
 If you have developed a Mac application and Xcode 4 under Lion starts to complain that a XIB file contains internal inconsistencies then you may need to remove a couple of items from your toolbar.

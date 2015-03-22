@@ -4,7 +4,6 @@ title: Apple TV and the Home Sharing Nightmare
 permalink: 2012-04-03-apple-tv-home-sharing-nightmare
 categories: technology
 layout: post
-share: true
 ---
 
 My household has three second generation Apple TVs which all rely on the iTunes library I have on a Drobo connected to my iMac. Until recently there would be the odd glitch and an Apple TV would decide that it didn't want to play which was usually fixed by restarting iTunes and/or the Apple TV in question.

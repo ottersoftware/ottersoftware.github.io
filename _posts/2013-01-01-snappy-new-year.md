@@ -4,7 +4,6 @@ title: Snappy New Year
 permalink: 2013-01-01-snappy-new-year
 categories: photography
 layout: post
-share: true
 ---
 
 One of my goals for 2013 is to re-discover photography. It is something I enjoyed a few years back but I gradually stopped doing although I've no real idea why. This blog post is all about how I fell in love with photography, my drift away from it and my renewed desire to get back into it.

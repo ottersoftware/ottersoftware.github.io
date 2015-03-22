@@ -4,7 +4,6 @@ title: Local Bookshops
 permalink: 2012-12-09-local-bookshops
 categories: personal
 layout: post
-share: true
 ---
 
 I recently posted [the obligatory picture](https://twitter.com/sgaw/status/277759182856400896) of this year's Christmas tree on Twitter and [Martin Winter](http://twitter.com/martinwinter) kindly replied, admiring my bookshelves. We then had a brief exchange of tweets about our love of physical books and it brought back some wonderful memories.

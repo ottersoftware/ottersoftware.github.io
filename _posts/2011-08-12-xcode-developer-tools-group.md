@@ -4,7 +4,6 @@ title: Xcode and the Developer Tools Group
 permalink: 2011-08-12-xcode-developer-tools-group
 categories: cocoa
 layout: post
-share: true
 ---
 
 If the account you use for development is not an administrative account you will be asked to enter the name and password for a user who is in the Developer Tools group once per login. To get around this you can add your account's username to the *_developer* group.

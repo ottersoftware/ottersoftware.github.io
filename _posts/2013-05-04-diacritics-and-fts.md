@@ -4,7 +4,6 @@ title: Diacritics and FTS
 permalink: 2013-05-04-diacritics-and-fts
 categories: cocoa
 layout: post
-share: true
 ---
 
 One aspect of FTS is that you need to 'sanitise' the text you are searching for. For example, if your source text was 'École' then you want it to be matched if the search term is something like 'ecole' or 'Ecole' or 'école'.

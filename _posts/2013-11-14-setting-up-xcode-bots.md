@@ -4,7 +4,6 @@ title: Setting Up Xcode Bots
 permalink: 2013-11-14-setting-up-xcode-bots
 categories: cocoa
 layout: post
-share: true
 ---
 
 For some time I've been wanting to set up a Continuous Integration server but, as a solo developer, I've never had the overwhelming need to do so. At least not to make me jump through all the hoops necessary to set up a Jenkins server. However when Apple announced Xcode Bots at WWDC 2013 it became a feature I really wanted to try. Unfortunately during the Mavericks beta period I kept hearing tales of anguish and woe so I avoided it all until yesterday.

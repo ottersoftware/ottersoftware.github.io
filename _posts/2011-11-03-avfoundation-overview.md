@@ -4,7 +4,6 @@ title: AVFoundation Overview
 permalink: 2011-11-03-avfoundation-overview
 categories: cocoa
 layout: post
-share: true
 ---
 
 ###Introduction

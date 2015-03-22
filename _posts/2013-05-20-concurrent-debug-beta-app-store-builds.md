@@ -4,7 +4,6 @@ title: Concurrent Debug, Beta and App Store Builds
 permalink: 2013-05-20-concurrent-debug-beta-app-store-builds
 categories: cocoa
 layout: post
-share: true
 ---
 
 Whilst I was developing [avTag](http://avtag.it) I started using [HockeyApp](http://www.hockeyapp.net) to distribute builds to beta testers. As part of that process I decided to follow their advice and configure my project so that I could have debug, beta and App Store builds all installed on devices concurrently. You then have access to the three states of your application quickly and easily. However I found some of the configuration notes slightly confusing and although [Andreas Linde](https://twitter.com/therealkerni) gave me some [very handy notes](http://support.hockeyapp.net/discussions/questions/1803-optimal-project-setup) I've decided to write things up in a more agnostic way. I wholeheartedly recommend HockeyApp but realise that some of you are either tied in to things like [TestFlight](https://testflightapp.com/dashboard/) or simply don't use a distribution service.

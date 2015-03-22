@@ -4,7 +4,6 @@ title: TP-Link TL-PA211 Powerline Adapters
 permalink: 2012-04-03-powerline-adapters
 categories: technology
 layout: post
-share: true
 ---
 
 My wireless network setup wasn't cutting it for me in my house any more so I decided to try ethernet over power as a possible solution. The idea is that instead of running ethernet cables all over your house you use your electrical cabling instead and special doobries that you plug in to wall sockets have ethernet ports on them that you can plug standard ethernet cables into.

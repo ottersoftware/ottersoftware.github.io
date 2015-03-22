@@ -4,7 +4,6 @@ title: Puncturing Fear
 permalink: 2014-04-22-puncturing-fear
 categories: cycling
 layout: post
-share: true
 ---
 
 Like most people I cycled as a kid. Like many people I've rediscovered cycling as an adult. In neither period of my life have I ever suffered from a puncture whilst out riding. This is definitely a good thing, if only because, whilst I thought I knew the theory, I'd never actually repaired or replaced an inner tube.

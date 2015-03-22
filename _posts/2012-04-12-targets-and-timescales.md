@@ -4,7 +4,6 @@ title: Targets and Timescales
 permalink: 2012-04-12-targets-and-timescales
 categories: cycling
 layout: post
-share: true
 ---
 
 Last night I sat down to work out how much weight I need to lose and tried to estimate when I might reach the target. My current weight is 107kg. According to my doctor I should be around 65kg. I therefore need to lose around 42kg. A sensible weight loss target is a pound per week or just under half a kilogram. On this basis I should potentially reach my target weight in around 90 weeks, just under 2 years.

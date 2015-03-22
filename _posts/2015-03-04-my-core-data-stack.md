@@ -4,7 +4,6 @@ title: My Core Data Stack
 permalink: 2015-03-04-my-core-data-stack
 categories: Cocoa
 layout: post
-share: true
 ---
 
 Yesterday I retweeted a message by Serg Krivoblotsky ([@Krivoblotsky](https://twitter.com/Krivoblotsky)) which linked to a video of a talk Marcus Zarra ([@mzarra](https://twitter.com/mzarra)) gave at the [MCE 2015 conference](http://mceconf.com). The video was entitled 'Core Data: Multi-Threading Clarity' and you can [watch it on YouTube](https://www.youtube.com/watch?v=ckbke8vjHMw).

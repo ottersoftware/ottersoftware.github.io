@@ -4,7 +4,6 @@ title: The Depressed Developer
 permalink: 2012-06-15-the-depressed-developer
 categories: personal
 layout: post
-share: true
 ---
 
 I've moved the conclusion from the end to the top. If you only have one minute, read this bit and ignore the rest.

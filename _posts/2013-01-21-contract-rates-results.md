@@ -4,7 +4,6 @@ title: Cocoa Contract Developer Rates - The Results
 permalink: 2013-01-21-contract-rates-results
 categories: business
 layout: post
-share: true
 ---
 
 A few days ago I put out [an appeal](http://swwritings.com/post/2013-01-16-contract-rates-appeal) for developers to share their rates with me. I got more responses than I'd expected and I'd like to thank the 37 respondents for their time, for being open and for being trusting.

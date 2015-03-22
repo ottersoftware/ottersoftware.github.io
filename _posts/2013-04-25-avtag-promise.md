@@ -4,7 +4,6 @@ title: An avTag Promise
 permalink: 2013-04-25-avtag-promise
 categories: avtag
 layout: post
-share: true
 ---
 
 Just as the WWDC tickets went on sale and sold out [Mathew Waters asked me if avTag would be out before the WWDC videos come out](https://twitter.com/mathew_waters/status/327475269331992578). The quantity of WWDC videos and the problem with finding specific content in them again was the initial spark which made me devise the concept of avTag so I replied with a very rash decision. I made an even worse one since then.

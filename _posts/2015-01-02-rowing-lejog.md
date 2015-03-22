@@ -4,7 +4,6 @@ title: Rowing LEJOG
 permalink: 2015-01-02-rowing-lejog
 categories: rowing
 layout: post
-share: true
 ---
 
 I generally try to avoid setting New Year's resolutions because I'm terrible at keeping to them and because it seems stupid to wait until a particular date before you implement a change in your life. However January 1 is a handy start date if you want to set yourself an annual challenge and that's what I've done this year.

@@ -4,7 +4,6 @@ title: Heart Rate Zones
 permalink: 2014-06-24-heart-rate-zones
 categories: rowing
 layout: post
-share: true
 ---
 
 ***Important:** I'm not a doctor, have no medical or sports training or expertise and the information in this post has been mainly been gleaned from the internet. DO NOT follow any advice in this post blindly. You should seek medical advice or the advice of a sports specialist yourself.*

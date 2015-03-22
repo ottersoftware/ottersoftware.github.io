@@ -4,7 +4,6 @@ title: Perspective Is Terribly Important
 permalink: 2013-05-01-perspective-is-terribly-important
 categories: technology
 layout: post
-share: true
 ---
 
 Over the last 24 hours or so a news story (see the links to some of the coverage at the end of this post for examples) has been developing regarding 'tagging' dementia sufferers so that they can be tracked. The evolution of the story has made me thing about our perspective of things as developers.

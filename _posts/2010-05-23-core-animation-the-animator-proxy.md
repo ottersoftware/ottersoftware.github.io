@@ -4,7 +4,6 @@ title: Core Animation - The Animator Proxy
 permalink: 2010-05-23-core-animation-the-animator-proxy
 categories: cocoa
 layout: post
-share: true
 ---
 
 ### Introduction

@@ -4,7 +4,6 @@ title: The Disgrace That Is BT
 permalink: 2012-08-25-the-disgrace-that-is-bt
 categories: personal
 layout: post
-share: true
 ---
 
 **Update**

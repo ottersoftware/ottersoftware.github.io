@@ -4,7 +4,6 @@ title: What's Happened to avTag?
 permalink: 2014-03-29-whats-happened-to-avtag
 categories: avtag
 layout: post
-share: true
 ---
 
 If everything had gone according to plan this post would have been entitled something like 'avTag Released!' because I'd wanted to have it in the App Store before this year's [NSConference](http://nsconference.com). Sadly it hasn't all gone to plan and so it isn't. As a result this post is a quick update on why things are behind schedule and what is happening.

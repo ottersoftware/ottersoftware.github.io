@@ -4,7 +4,6 @@ title: Evolution of a User Interface
 permalink: 2014-05-23-evolution-of-a-user-interface
 categories: avtag
 layout: post
-share: true
 ---
 
 Now that avTag 1.0 is finally [available in the App Store](https://itunes.apple.com/gb/app/avtag-tag-your-media-files/id490402860?mt=8&uo=4&at=10lGfq) work has started on version 1.1. Amongst the new features and usability improvements the user interface is being tweaked and polished. I wanted to share some of the changes being implemented and explain why they have been made.

@@ -4,7 +4,6 @@ title: An Introduction to avTag
 permalink: 2012-08-29-introduction-to-avtag
 categories: avtag
 layout: post
-share: true
 ---
 
 Yesterday afternoon I recorded episode 63 of the [iDeveloper Live podcast](http://ideveloper.tv/podcast/ideveloperlive.html) with [Steve 'Scotty' Scott](https://twitter.com/macdevnet/) and [John Fox](https://twitter.com/djembe/) (and if you've not listened to the podcast before and you are an OS X or iOS developer then give it a go). Towards the end of the show I revealed what avTag, an upcoming application that I am writing, is but I think it is worth expanding on what I said on the show and maybe clarifying a few details.

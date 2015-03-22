@@ -4,7 +4,6 @@ title: Consistency
 permalink: 2014-05-20-consistency
 categories: cocoa
 layout: post
-share: true
 ---
 
 At the start of December I was struggling to get through the final push I needed to do to get avTag finished off and into the App Store and in my mind I kept hearing [Drew McCormack's](https://twitter.com/drewmccormack) words:

@@ -4,7 +4,6 @@ title: avTag 1.0b1
 permalink: 2013-06-03-avtag-first-beta
 categories: avtag
 layout: post
-share: true
 ---
 
 Just over a month ago [I wrote a blog post](http://swwritings.com/post/2013-04-25-avtag-promise) about my intention to release a beta of avTag before WWDC. Today, one week before WWDC begins, I shipped beta 1 to 23 testers.

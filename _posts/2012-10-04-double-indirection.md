@@ -4,7 +4,6 @@ title: Double Indirection
 permalink: 2012-10-04-double-indirection
 categories: cocoa
 layout: post
-share: true
 ---
 
 A [recent thread](https://devforums.apple.com/thread/168948?start=0&tstart=0) in Apple's Developer Forums (login required) consisted of a lengthy discussion based on a question about why, in iOS 6, '==' was not the same as 'isEqual:' with respect to comparing strings. The originator of the question said that this worked before iOS 6 and therefore Apple had broken something.

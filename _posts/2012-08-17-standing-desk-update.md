@@ -4,7 +4,6 @@ title: Standing Desk Update
 permalink: 2012-08-17-standing-desk-update
 categories: personal
 layout: post
-share: true
 ---
 
 Almost three months ago [I wrote about](http://swwritings.com/post/2012-05-28-standing-desk) my decision to start using a standing desk. Earlier today [Frank Reiff](https://twitter.com/frankreiff) asked me how it was going which has prompted me to post a quick status update.
