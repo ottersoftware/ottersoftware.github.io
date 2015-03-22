@@ -10,8 +10,8 @@ share: true
 Until today my attempts at sewing could have been counted on one hand and would have earned about as much applause as most people can manage with one hand too. However I've just spent the afternoon and evening taking a sewing course with five other people and it was an enormous amount of fun. As an added bonus my daughter has a new cushion for her bed.
 
 <figure class="half">
-	<img src="{{ site.url }}/images/2015-03-22-learning-to-sew-01.jpg" alt="My Cushion">
-	<img src="{{ site.url }}/images/2015-03-22-learning-to-sew-02.jpg" alt="My Cushion">
+	<img src="{{ site.url }}/images/2015-03-22-learning-to-sew-01_600.jpg" alt="My Cushion">
+	<img src="{{ site.url }}/images/2015-03-22-learning-to-sew-02_600.jpg" alt="My Cushion">
 	<figcaption>The fruits of today's labours.</figcaption>
 </figure>
 
