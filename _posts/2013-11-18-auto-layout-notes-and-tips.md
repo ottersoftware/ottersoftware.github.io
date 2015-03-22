@@ -1,6 +1,7 @@
 ---
 date: 2013-11-18 13:28
 title: Auto Layout Notes & Tips
+permalink: /posts/2013-11-18-auto-layout-notes-and-tips
 categories: cocoa
 layout: post
 share: true

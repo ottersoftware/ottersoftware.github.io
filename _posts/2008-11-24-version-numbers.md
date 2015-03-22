@@ -1,6 +1,7 @@
 ---
 date: 2008-11-24 12:00
 title: Version Numbers
+permalink: /posts/2008-11-24-version-numbers
 categories: cocoa
 layout: post
 share: true

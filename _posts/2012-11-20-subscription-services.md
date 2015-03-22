@@ -1,6 +1,7 @@
 ---
 date: 2012-11-20 11:02
 title: Subscription Services
+permalink: /posts/2012-11-20-subscription-services
 categories: business
 layout: post
 share: true

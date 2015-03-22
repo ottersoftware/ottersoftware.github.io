@@ -1,6 +1,7 @@
 ---
 date: 2012-04-03 15:00
 title: Apple TV and the Home Sharing Nightmare
+permalink: /posts/2012-04-03-apple-tv-home-sharing-nightmare
 categories: technology
 layout: post
 share: true

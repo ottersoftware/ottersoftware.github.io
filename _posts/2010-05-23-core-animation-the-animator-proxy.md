@@ -1,6 +1,7 @@
 ---
 date: 2010-05-23 11:49
 title: Core Animation - The Animator Proxy
+permalink: /posts/2010-05-23-core-animation-the-animator-proxy
 categories: cocoa
 layout: post
 share: true

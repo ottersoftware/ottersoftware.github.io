@@ -1,6 +1,7 @@
 ---
 date: 2013-01-01 19:28
 title: Minimum Shutter Speeds for Hand Held Photos
+permalink: /posts/2013-01-01-minimum-shutter-speeds
 categories: photography
 layout: post
 share: true

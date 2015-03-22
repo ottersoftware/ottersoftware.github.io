@@ -1,6 +1,7 @@
 ---
 date: 2013-11-14 14:31
 title: Setting Up Xcode Bots
+permalink: /posts/2013-11-14-setting-up-xcode-bots
 categories: cocoa
 layout: post
 share: true

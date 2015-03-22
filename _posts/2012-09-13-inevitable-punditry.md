@@ -1,6 +1,7 @@
 ---
 date: 2012-09-13 12:50
 title: The September 2012 Inevitable Punditry Post
+permalink: /posts/2012-09-13-inevitable-punditry
 categories: personal
 layout: post
 share: true

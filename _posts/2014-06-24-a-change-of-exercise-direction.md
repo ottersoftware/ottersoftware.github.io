@@ -1,6 +1,7 @@
 ---
 date: 2014-06-23 22:15
 title: A Change of Exercise Direction
+permalink: /posts/2014-06-23-a-change-of-exercise-direction
 categories: rowing
 layout: post
 share: true

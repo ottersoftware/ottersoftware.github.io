@@ -1,6 +1,7 @@
 ---
 date: 2012-06-28 14:47
 title: Managing Sent Emails
+permalink: /posts/2012-06-28-managing-sent-emails
 categories: technology
 layout: post
 share: true

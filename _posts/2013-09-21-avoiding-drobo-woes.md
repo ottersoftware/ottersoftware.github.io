@@ -1,6 +1,7 @@
 ---
 date: 2013-09-21 12:03
 title: Avoiding Drobo Woes
+permalink: /posts/2013-09-21-avoiding-drobo-woes
 categories: technology
 layout: post
 share: true

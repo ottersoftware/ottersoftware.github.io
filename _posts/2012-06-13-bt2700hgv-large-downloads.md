@@ -1,6 +1,7 @@
 ---
 date: 2012-06-13 11:46
 title: BT2700HGV and Large Downloads
+permalink: /posts/2012-06-13-bt2700hgv-large-downloads
 categories: technology
 layout: post
 share: true

@@ -1,6 +1,7 @@
 ---
 date: 2014-05-27 15:22
 title: Affiliate Links with Alfred
+permalink: /posts/2014-05-27-affilliate-links-with-alfred
 categories: business
 layout: post
 share: true

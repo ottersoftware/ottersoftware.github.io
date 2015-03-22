@@ -1,6 +1,7 @@
 ---
 date: 2011-08-12 12:47
 title: Backups and Xcode 4 Build Files
+permalink: /posts/2011-08-12-backups-xcode-build-files
 categories: cocoa
 layout: post
 share: true

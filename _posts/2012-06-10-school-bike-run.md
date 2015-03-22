@@ -1,6 +1,7 @@
 ---
 date: 2012-06-10 22:09
 title: The School (Bike) Run
+permalink: /posts/2012-06-10-school-bike-run
 categories: cycling
 layout: post
 share: true

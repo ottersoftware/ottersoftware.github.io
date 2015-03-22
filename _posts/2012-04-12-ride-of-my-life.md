@@ -1,6 +1,7 @@
 ---
 date: 2012-04-12 21:40
 title: Ride of my Life - The Story of the Bicycle
+permalink: /posts/2012-04-12-ride-of-my-life
 categories: cycling
 layout: post
 share: true

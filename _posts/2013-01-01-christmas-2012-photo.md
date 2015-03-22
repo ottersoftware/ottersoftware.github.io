@@ -1,6 +1,7 @@
 ---
 date: 2013-01-01 15:34
 title: Christmas 2012 Photo
+permalink: /posts/2013-01-01-christmas-2012-photo
 categories: photography
 layout: post
 share: true

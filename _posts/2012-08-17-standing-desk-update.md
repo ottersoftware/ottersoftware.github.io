@@ -1,6 +1,7 @@
 ---
 date: 2012-08-17 19:31
 title: Standing Desk Update
+permalink: /posts/2012-08-17-standing-desk-update
 categories: personal
 layout: post
 share: true

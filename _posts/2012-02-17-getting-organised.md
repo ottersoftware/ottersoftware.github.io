@@ -1,6 +1,7 @@
 ---
 date: 2012-02-17 12:00
 title: Getting Organised - iDeveloper Live Episode 42 Notes (13 February 2012) 
+permalink: /posts/2012-02-17-getting-organised
 categories: business
 layout: post
 share: true

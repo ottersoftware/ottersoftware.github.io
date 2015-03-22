@@ -1,6 +1,7 @@
 ---
 date: 2013-05-04 17:41
 title: Diacritics and FTS
+permalink: /posts/2013-05-04-diacritics-and-fts
 categories: cocoa
 layout: post
 share: true

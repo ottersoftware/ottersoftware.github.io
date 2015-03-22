@@ -1,6 +1,7 @@
 ---
 date: 2009-07-05 12:00
 title: Embedding Fonts
+permalink: /posts/2009-07-05-embedding-fonts
 categories: cocoa
 layout: post
 share: true
