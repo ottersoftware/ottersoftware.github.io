@@ -2,7 +2,7 @@
 date: 2015-03-26 19:52
 title: Refactoring iPAYE
 permalink: /post/2015-03-26-refactoring-ipaye
-categories: The iPaye Diaries
+categories: iPAYE
 layout: post
 share: true
 ---
