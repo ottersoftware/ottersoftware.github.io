@@ -35,4 +35,4 @@ However, whilst I was at NSConference a few weeks ago [Pieter Omvlee](https://tw
 
 So this is where I am up to and I've decided to write a series of blog posts about the process. This will serve two main purposes and have a third as a result of them. The first is that it will allow me to share my thoughts, processes and ideas with other developers and hopefully get their feedback too. The second is that it will help keep me focused. I'll feel more motivated to keep plugging away at it if I am publicly accountable. The third is that even if iPAYE doesn't generate enough income to cover the refactoring costs the educational process for both myself and others will make it worthwhile. I'm intending to learn from this process and I hope others will too.
 
-In my next post I'll outline what stages and in what order I think I will tackle things in.
+In [my next post](http://www.swwritings.com/post/2015-03-27-ipaye-plan-of-attack) I'll outline what stages and in what order I think I will tackle things in.
