@@ -21,4 +21,6 @@ I've now added a Swift DatabaseManager class to the project. This should probabl
 
 ---
 
-I’m [@sgaw on Twitter](http://twitter.com/sgaw) and you can also email me at simon at this domain.
+*Updated on 30 March 2015*
+
+Marcus has now written his own blog post about his own Core Data stack at [http://martiancraft.com/blog/2015/03/core-data-stack/](http://martiancraft.com/blog/2015/03/core-data-stack/).
