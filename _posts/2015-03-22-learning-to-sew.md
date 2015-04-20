@@ -2,7 +2,7 @@
 date: 2015-03-22 20:57
 title: Learning to Sew
 permalink: /post/2015-03-22-learning-to-sew
-categories: personal
+categories: sewing
 layout: post
 share: true
 ---
