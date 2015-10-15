@@ -7,6 +7,10 @@ layout: post
 share: true
 ---
 
+**Important:** Please read the news about my decision to finally [retire iPAYE](http://www.swwritings.com/post/2015-10-15-retiring-ipaye/).
+
+---
+
 Early last year I took over an app called iPAYE from its original developer. It is a UK tax calculator which not only allows you to calculate tax, national insurance, etc. as a one-off calculation but it also allows you to build up an entire year of playslips and handles Director's National Insurance which is a far from trivil calculation. There are both [iOS](https://itunes.apple.com/gb/app/ipaye-tax-calculator/id341368716?mt=8) and [OS X](https://itunes.apple.com/gb/app/ipaye-uk-tax-calculator/id455202188?mt=12) versions of the application.
 
 Last week I finished updating both versions for the 2015-16 tax year which was a fairly major task because of new tax codes and some variations in how National Insurance is calculated. In fact I had to rope the original developer in to help me out. Whilst I was doing the updates I realised that the annual income from the apps was going to fall far short of the time I was investing in them which made me question whether the apps are sustainable.
