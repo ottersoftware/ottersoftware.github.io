@@ -62,7 +62,7 @@ The settings are stored in JSON files and so workspace settings can be added to 
 When you change the Python interpreter as mentioned above it is stored in the workspace settings as (for example):
 
     {
-        "python.pythonPath": "${workspaceRoot}/env/bin/python3",
+        "python.pythonPath": "${workspaceRoot}/env/bin/python3"
     }
 
 My user settings are:
