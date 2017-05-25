@@ -20,22 +20,22 @@ When I started writing [Python](https://www.python.org) code I mainly used BBEdi
 In addition to using WebStorm for JavaScript coding I'd tinkered with Microsoft's [Visual Studio Code](https://code.visualstudio.com). It's a lightweight IDE which uses extensions to support multiple languages, themes, debuggers and other services. I really liked it but since I'd already bought a license for WebStorm and become familiar with it I hadn't used it a huge amount. Python development seemed like the perfect opportunity to dig into it a bit more.
 
 ## Setting Up Visual Studio Code
-Once you have downloaded and installed VS Code you will need to configure it for Python. You can do a lot of this via the Command Palette which is available from the View menu or via `Cmd+Shift+P` on a Mac or `Ctrl+Shift+P` on Windows and Linux. To use the Command Palette you type in what you are looking for but because it filters the results you can usually get away with just typing a few characters.
+Once you have downloaded and installed Visual Studio Code you will need to configure it for Python. You can do a lot of this via the Command Palette which is available from the View menu or via `Cmd+Shift+P` on a Mac or `Ctrl+Shift+P` on Windows and Linux. To use the Command Palette you type in what you are looking for but because it filters the results you can usually get away with just typing a few characters.
 
 ### Add Code to Your Path
-If you add the `code` command to your path you can launch or activate VS Code from a Terminal window. To add it, open the Command Palette and find:
+If you add the `code` command to your path you can launch or activate Visual Studio Code from a Terminal window. To add it, open the Command Palette and find:
 
     Shell Command: Install 'code' command in PATH
 
 ### Adding Python Support
-Most people use [Don Jayamanne's Python extension](https://github.com/DonJayamanne/pythonVSCode) to add Python support to VS Code. To do this you need to view the Extensions palette which can be done via the View -> Extensions menu item or by clicking on the Extensions button in the sidebar or via the Command Palette:
+Most people use [Don Jayamanne's Python extension](https://github.com/DonJayamanne/pythonVSCode) to add Python support to Visual Studio Code. To do this you need to view the Extensions palette which can be done via the View -> Extensions menu item or by clicking on the Extensions button in the sidebar or via the Command Palette:
 
     View: Show Extensions
 
 In the Extensions palette search for `Python` and Don's extension should be at or near the top.
 
 ### ctags
-Although it is optional I'd recommend installing [ctags](http://ctags.sourceforge.net) which helps VS Code index and provide Intellisense for Python and your own code. 
+Although it is optional I'd recommend installing [ctags](http://ctags.sourceforge.net) which helps Visual Studio Code index and provide Intellisense for Python and your own code. 
 
 On a Mac you can install it with [Homebrew](https://brew.sh):
 
@@ -48,14 +48,14 @@ On Linux you can install it with:
 On Windows you'll need to download it as a binary and place it somewhere in your path.
 
 ## The Python Interpreter
-When you open a project in VS Code it usually does a fairly good job of picking the right version of Python to work with but it is worth double-checking. To do this, use the Command Palette:
+When you open a project in Visual Studio Code it usually does a fairly good job of picking the right version of Python to work with but it is worth double-checking. To do this, use the Command Palette:
 
     Python: Select Workspace Interpreter
 
 Remember that if you are using a virtual environment (and you should be... see my [pip and Virtual Environments](http://www.swwritings.com/post/2017-05-25-pip-virtual-environments) blog post for details) you should select its Python interpreter.
 
 ## Settings
-VS Code has two types of settings. There are user settings, which apply to all projects, and workspace settings, which are project-specific.
+Visual Studio Code has two types of settings. There are user settings, which apply to all projects, and workspace settings, which are project-specific.
 
 The settings are stored in JSON files and so workspace settings can be added to your version control system. On a Mac the user settings are stored in `~/Library/Application Support/Code/User/settings.json` so they can be easily transferred to a different Mac if you choose to do so.
 
@@ -87,7 +87,7 @@ My user settings are:
  (*I've used [Inconsolata-dz](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/) for a number of years now as my fixed-width font of choice.*)
 
 ### Python Formatting
-Whilst VS Code does a fairly good job of formatting code nicely as you type it, [autopep8](https://pypi.python.org/pypi/autopep8) does a better job each time you save your files and this setting enables it:
+Whilst Visual Studio Code does a fairly good job of formatting code nicely as you type it, [autopep8](https://pypi.python.org/pypi/autopep8) does a better job each time you save your files and this setting enables it:
 
     python.formatting.formatOnSave
 
