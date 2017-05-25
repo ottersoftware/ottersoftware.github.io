@@ -2,7 +2,7 @@
 date: 2015-03-04 21:36
 title: My Core Data Stack
 permalink: /post/2015-03-04-my-core-data-stack
-categories: Cocoa
+categories: cocoa
 layout: post
 share: true
 ---

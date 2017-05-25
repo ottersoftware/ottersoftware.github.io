@@ -2,7 +2,7 @@
 date: 2017-05-24 22:00
 title: New To Python
 permalink: /post/2017-05-24-new-to-python
-categories: Python
+categories: python
 layout: post
 share: true
 ---

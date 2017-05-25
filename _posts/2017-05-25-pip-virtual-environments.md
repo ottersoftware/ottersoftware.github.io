@@ -2,7 +2,7 @@
 date: 2017-05-25 15:15
 title: Pip and Virtual Environments
 permalink: /post/2017-05-25-pip-virtual-environments
-categories: Python
+categories: python
 layout: post
 share: true
 ---
