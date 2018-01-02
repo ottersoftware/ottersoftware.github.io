@@ -13,7 +13,6 @@ Whenever I start learning a new programming language I like to find good book an
 I'm currently getting to know Python so whilst this post outlines my initial discoveries is also a request for help. If you have any suggestions for me please let me know via [Twitter](http://twitter.com/sgaw). I'll either update this post or create a new one once I've gained some more exposure to the Python community.
 
 ## Books
-
 One of the problems I've faced is in finding books targeted towards existing developers who want to learn Python as opposed to books written for people new to development.  The Python Software Foundation has [a list of possible resources](https://wiki.python.org/moin/BeginnersGuide/Programmers) but it is, if anything, slightly overwhelming.
 
 So far I've tended to look at existing sample code to get a feel of the language rather than relying on one single source of information but I have bought a few books.
@@ -27,13 +26,12 @@ Another project I want to tackle involves sanitising, cleaning and processing a 
 I've also bought a copy of [Effective Python](http://www.effectivepython.com) by Brett Slatkin ([Twitter](https://twitter.com/haxor) and [Blog](http://www.onebigfluke.com)) which looks good but I've only dipped into it briefly.
 
 ## Blogs & Email Digests
-
 Nothing yet so I'd love some suggestions.
 
 ## Conference Videos & Speakers
 There are a lot of [PyCon](http://www.pycon.org) (see below) videos on YouTube which is fantastic. I'm going to watch some as and when I get time but if people have recommendation about any particularly good ones I'd love to hear about them.
 
-So far I've not watched many videos, mainly due to time, but I did come acrossRaymond Hettinger (on Twitter as [raymondh](https://twitter.com/raymondh)) who is very engaging and his talks are packed full of useful information whilst being funny and energetic. Some of his videos that I've watched and would recommend are:
+So far I've not watched many videos, mainly due to time, but I did come across Raymond Hettinger (on Twitter as [raymondh](https://twitter.com/raymondh)) who is very engaging and his talks are packed full of useful information whilst being funny and energetic. Some of his videos that I've watched and would recommend are:
 
 * [Being a Core Developer in Python](https://www.youtube.com/watch?v=voXVTjwnn-U) from PyBay2016
 * [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M) from PyCon 2015
