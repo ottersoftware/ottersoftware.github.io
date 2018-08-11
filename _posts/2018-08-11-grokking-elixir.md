@@ -8,7 +8,6 @@ share: true
 ---
 
 ## Introduction
-
 Late last September I started being interested in [Elixir](https://elixir-lang.org). As the website says, "Elixir is a dynamic, functional language designed for building scalable and maintainable applications." Elixir uses the [Erlang](http://www.erlang.org) Virtual Machine and Erlang is a battle-tested language which was originally developed by [Ericsson](https://en.wikipedia.org/wiki/Ericsson) for telephony applications which needed to be distributed, fault-tolerant and highly available. Elixir is really a more modern, more readable, less verbose version of Erlang.
 
 My interest was partly academic but I maintain the back-end and front-end code for a system which needs to be reliable, stable and scalable. Elixir seemed to be perfectly suited to that sort of role so I had a vague plan to re-write some or all of it in Elixir.
@@ -16,13 +15,11 @@ My interest was partly academic but I maintain the back-end and front-end code f
 Coming from a background of object-orientated languages I was expecting the biggest stumbling block to be the switch to functional programming but that bit seemed to click for me very quickly. The first paragraph of [Wikipedia's functional programming article](https://en.wikipedia.org/wiki/Functional_programming) gives a good summary of how it differs from object-orientated programming.
 
 ## Grokking The Basics
-
 Grokking the basics of the Elixir language wasn't terribly difficult. This is partly because [the documentation](https://elixir-lang.org/docs.html) is great (and I love the fact that documentation, as well as testing, is a first class citizen in the Elixir world) and partly because it's not a huge, sprawling language. By contrast, [Swift](https://swift.org) can give me imposter syndrome despite having been a professional developer for almost 25 years and despite having been writing code for Apple's ecosystem for a decade.
 
 Two books which really helped me with the language were [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do) and [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir).
 
 ## Processes and Concurrency
-
 Once you are comfortable with the basics the next area to tackle is that of processes and concurrency.
 
 A core concept in Elixir is that you can create processes which are small packages of code which can be run independently from each other and concurrently. You can send messages between processes and processes can be monitored and supervised so that if one crashes it can be restarted automatically.
@@ -36,7 +33,6 @@ After covering processes at a low-level he moves on to explaining OTP servers an
 Then in chapter 19 I discovered the thing I can point to and say that it helped me grok Elixir and how my knowledge of the language could be translated into a viable application. In this chapter Dave walks through designing, structuring and creating an application which finds duplicate files on your computer. The application takes a lot of the process and OTP theory and puts it into the context of a real application.
 
 ## The Next Steps
-
 So far I've mentioned three books which have helped me get to grips with Elixir. I know that I still have a lot to learn and a lot of gaps to fill but at the moment I feel confident enough to start re-writing some of the system I mentioned at the start of this article.
 
 However during the last year I've bought other books, taken a couple of video courses, watched some videos on YouTube, subscribed to some newsletters and joined a forum, all of which I'll list below.
@@ -44,7 +40,6 @@ However during the last year I've bought other books, taken a couple of video co
 Before I do that I'll mention that the official Elixir site hosts [the Elixir documentation](https://elixir-lang.org/docs.html) which is really good and that there are also some [guides](https://elixir-lang.org/getting-started/introduction.html) and a great list of [learning resources](https://elixir-lang.org/learning.html) there too.
 
 ### Books
-
 [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do) was a good first-pick book choice and it was clearly written. However I do note that some Amazon reviewers have said that it's not ideal if Elixir is your first programming language. Mind you, if you're completely new to programming a language like [Python](https://www.python.org) might be more appropriate anyway.
 
 Having said that, I think that I would now suggest [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir) to someone as a first Elixir book. It is fairly short (around 150 pages) but it is very good for learning the basics of Elixir as a language. I particularly liked the way it explained anonymous and named functions, pure and impure functions and recursion. It was also really good for covering and explaining some of the symbols you'll see in Elixir code such as =>, -> and <-.
@@ -66,19 +61,16 @@ In addition to these, [Property-Based Testing with PropErr, Erlang, and Elixir](
 I know next-to-nothing about Elixir macros at this point but when I do learn more about them I may well buy [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir) even though it is a few years old.
 
 ### Videos & Video Courses
-
 [The Coding Gnome](https://coding-gnome.com) is Dave Thomas' online course site. At the moment there is only one course available, Elixir for Programmers, but it is a great course and well worth taking. I'm going to re-take it once I have a spare weekend just to revisit and reinforce some of the ideas he proposes.
 
 I really hope that Dave creates some additional courses too. The site also includes links to some of his recent conference talks which are all worth watching and his blog which is worth reading. Dave can be a bit outspoken about Elixir's best practices and isn't shy about critiquing them and offering his alternative takes and whether you agree with him or not his views are definitely worth listening to.
 
 ### Newsletters
-
 [ElixirWeekly](https://elixirweekly.net) is a very good weekly newsletter which is sent out each Thursday.
 
 [Elixir Radar](http://plataformatec.com.br/elixir-radar) is published by [Plataformatec](http://plataformatec.com.br), the company which created Elixir.
 
 ### Forums, Twitter & Miscellaneous
-
 [Elixir Forum](https://elixirforum.com) seems to be the de-facto forum and is a friendly, welcoming place.
 
 As well as hosting a newsletter, [Elixir Radar](http://plataformatec.com.br/elixir-radar) has a job board.
