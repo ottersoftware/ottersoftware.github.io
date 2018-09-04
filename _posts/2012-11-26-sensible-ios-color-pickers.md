@@ -39,4 +39,6 @@ Once things have been tidied up and finished off I'll post an update to show off
 
 ---
 
-As a slight side-note, if you're not quite as graphically inept as I am then you may be able to harness one of the great colour management applications that exist. One that I can heartily recommend is a Mac application called [ColorSchemer Studio](http://www.colorschemer.com).
+**Update on 4 September 2018**
+
+Originally this post ended with a recommendation to have a look at a Mac application called ColorSchemer Studio. David Eubanks from [Digital.com](https://digital.com) emailed me today to say that ColorSchemerStudio is no more and suggested [a blog post](https://digital.com/blog/web-colors/) written by Claire Broadley who works with him. It is a reference on colors on web and includes some links to some useful resources.
