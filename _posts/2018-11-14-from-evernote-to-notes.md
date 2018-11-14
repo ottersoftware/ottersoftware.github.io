@@ -8,7 +8,6 @@ share: true
 ---
 
 ## Introduction
-
 I have been using [Evernote](https://www.evernote.com) for several years and I pay for a Premium plan because I need to use more than two devices and some of my attachments are over 25MB in size. The system is very capable and includes some really nice features including OCR'ing text in images (really handy if you take a photo of something like a business card).
 
 However the application is also full of features I don't need or use when I actually looked at what I wanted to use it for it was a very small set of requirements:
@@ -20,7 +19,6 @@ However the application is also full of features I don't need or use when I actu
 Having fairly recently abandoned complex Getting Things Done apps and switched to Apple's Reminders app I decided to have a proper look at [Apple's Notes app](https://support.apple.com/en-gb/guide/notes/welcome/mac).
 
 ## The Notes App
-
 Apple's Notes app comes with both iOS and macOS and it uses iCloud to sync the data between all of your devices (although you can also use other services such as Gmail and Exchange too).
 
 Notes are stored in folders and a nice discovery was that it also supports sub-folders too. This helps enormously with my third requirement... I can have a folder of notes relating to a community project and a sub-folder called something like '2018-11 Meeting' which contains notes and documents for that particular meeting.
@@ -28,7 +26,6 @@ Notes are stored in folders and a nice discovery was that it also supports sub-f
 Notes also contains some advanced features. You can share and collaborate on notes, scan documents using an iPhone (it's really just taking a photo which is then optimised but you can add a note on macOS by 'scanning' on an iPhone which is clever), mark up attached documents, search using Siri and more. Take a look at the [Notes User Guide](https://support.apple.com/en-gb/guide/notes/welcome/mac) for full details.
 
 ## The Concerns
-
 Whilst Notes ticks most of my boxes there are a couple of features I will miss and some which may prevent others from migrating to it.
 
 ### OCR
@@ -69,11 +66,9 @@ Exporting notes from Evernote is really simple (see below). Exporting notes from
 This does raise a question about lock-in and whether it is a good idea to adopt Notes if you can't get the data into another application if you want to. I will be looking into [AppleScripts](https://en.wikipedia.org/wiki/AppleScript) to create exports (of only for backup purposes at the moment) however and will update this article with any findings.
 
 ## Migrating My Notes
-
 The great news is that migrating from Evernote to Notes is really simple. You can export your Evernote notes in their Evernote XML Format and Notes can read it and will import everything seamlessly... almost...
 
 The problem is that when you import an Evernote XML Format file into Notes the notebook information is lost and all of your notes end up in one folder. Therefore you need to export the contents of each Evernote notebook into its own file and then import them individually into Notes (renaming the import folder each time).
 
 ## Conclusion
-
 It has only been a few days since I migrated my notes over but so far I am very happy. Sub-folders are a really nice addition for me and I'm doing things I could have done but tended not to with Evernote. For example, I sat on the sofa with my iPad and an Apple Pencil and added annotations to a PDF I was reviewing. Evernote can do this too (but it is a premium feature) but I'd never done it and when I did look at it for this article the annotation tools felt overly complex and complicated compared to Apple's minimalist approach. And that is a great way to sum up Evernote versus Notes too.
