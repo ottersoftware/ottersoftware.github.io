@@ -50,7 +50,7 @@ Many people struggle getting their head around functional programming after bein
 ## Documentation
 This isn't about [Elixir's documentation](https://elixir-lang.org/docs.html) although it is great and there are also some very helpful [guides](https://elixir-lang.org/getting-started/introduction.html) and a solid list of [learning resources](https://elixir-lang.org/learning.html). This is about the fact that in Elixir you are encouraged to write documentation in your code and it is then trivial to convert it into good looking HTML pages. This can be handy for your own code but comes into its own for packages.
 
-Alongside the Elixir and Erlang package manager, [Hex](https://hex.pm), sits [Hexdocs](https://hexdocs.pmh) where the documentation embedded in the code inside packages is published. It all follows a standard style which makes it very easy to follow. As an example, take a look at [the documentation for Poison](https://hexdocs.pm/poison/Poison.html), a JSON library.
+Alongside the Elixir and Erlang package manager, [Hex](https://hex.pm), sits [Hexdocs](https://hexdocs.pm) where the documentation embedded in the code inside packages is published. It all follows a standard style which makes it very easy to follow. As an example, take a look at [the documentation for Poison](https://hexdocs.pm/poison/Poison.html), a JSON library.
 
 If you take a look at the documentation for [the decode!/1 function](https://hexdocs.pm/poison/Poison.html#decode!/1) (in Elixir you refer to functions by their name and arity and here the arity is one... the function takes one argument) you will notice two things:
 
