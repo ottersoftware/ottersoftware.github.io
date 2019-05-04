@@ -15,7 +15,7 @@ When you trigger it (I have it set to 'ita' for 'iTunes Affiliate') it parses th
 
 If you must, customise it by editing the AppleScript and enter your own affiliate ID at the top. I don't mind if you leave mine in-place however!
 
-[Download the Alfred workflow](http://images.swwritings.com/Append_iTunes_Affiliate_Token.zip)
+[Download the Alfred workflow](https://www.swwritings.com/images/Append_iTunes_Affiliate_Token.zip)
 
 ---
 

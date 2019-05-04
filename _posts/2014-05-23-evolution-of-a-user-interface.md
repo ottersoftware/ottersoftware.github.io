@@ -11,9 +11,9 @@ Now that avTag 1.0 is finally [available in the App Store](https://itunes.apple.
 
 Below you can see the Filters view from avTag 1.0:
 
-<img src="http://images.swwritings.com/2014-05-23-evolution-of-a-user-interface-01.png" alt="avTag 1.0 Screenshot" width="320" />
+<img src="https://www.swwritings.com/images/2014-05-23-evolution-of-a-user-interface-01.png" alt="avTag 1.0 Screenshot" width="320" />
 
-[<a href="http://images.swwritings.com/2014-05-23-evolution-of-a-user-interface-01.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2014-05-23-evolution-of-a-user-interface-01.png" target="_blank">Full Sized Version</a>]
 
 I was generally happy with it but there was a glaring issue which was that the icons in the tab bar at the bottom of the screen were stock icons from the [Glyphish](http://www.glyphish.com) icon sets. They're not bad icons but they don't really work well with the overall avTag user interface. They were used because I made a last minute decision to use a tabbed interface and my designer didn't have time to create bespoke icons before I wanted to ship avTag.
 
@@ -29,8 +29,8 @@ Finally, the tab bar has gone and been replaced by buttons in the top bar. This 
 
 You can see all of these changes in the screenshot from 1.1 below:
 
-<img src="http://images.swwritings.com/2014-05-23-evolution-of-a-user-interface-02.png" alt="avTag 1.1 Screenshot" width="320" />
+<img src="https://www.swwritings.com/images/2014-05-23-evolution-of-a-user-interface-02.png" alt="avTag 1.1 Screenshot" width="320" />
 
-[<a href="http://images.swwritings.com/2014-05-23-evolution-of-a-user-interface-02.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2014-05-23-evolution-of-a-user-interface-02.png" target="_blank">Full Sized Version</a>]
 
 Obviously these font and colour changes have been rolled out throughout the entire application and the overall feel is of a more polished, more complete app which has a bit more of an identity. I imagine that the user interface will continue to evolve over releases but just a few small tweaks can make things feel fresh and more polished.

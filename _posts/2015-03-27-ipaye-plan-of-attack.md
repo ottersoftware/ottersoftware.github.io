@@ -7,11 +7,11 @@ layout: post
 share: true
 ---
 
-**Important:** Please read the news about my decision to finally [retire iPAYE](http://www.swwritings.com/post/2015-10-15-retiring-ipaye/).
+**Important:** Please read the news about my decision to finally [retire iPAYE](https://www.swwritings.com/post/2015-10-15-retiring-ipaye/).
 
 ---
 
-In [my last post](http://www.swwritings.com/post/2015-03-26-refactoring-ipaye/) I explained that I was going to undertake a major refactoring task to modernise and improve an application which is split over two platforms (iOS and OS X) and three device types (Mac, iPad and iPhone).
+In [my last post](https://www.swwritings.com/post/2015-03-26-refactoring-ipaye/) I explained that I was going to undertake a major refactoring task to modernise and improve an application which is split over two platforms (iOS and OS X) and three device types (Mac, iPad and iPhone).
 
 In this post I outline how I am going to approach this task and hopefully make it manageable. I'm expecting some revisions to this post and I'll try to devise a way to make them clear and reviewable so that it is easy to see what changed, when and why.
 

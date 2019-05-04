@@ -77,7 +77,7 @@ The above code creates an initial NSAnimationContext where the animation duratio
 
 <strong>Gotcha!</strong> You need to watch out because if you have defined a custom animation for say the frameOrigin property and you try to override the duration of that animation using NSAnimationContext the NSAnimationContext will have no effect. NSAnimationContext only seems to override the built-in default durations.
 
-[Download an example project](http://images.swwritings.com/2010-05-23-core-animation-the-animator-proxy-01.zip)
+[Download an example project](https://www.swwritings.com/images/2010-05-23-core-animation-the-animator-proxy-01.zip)
 
 
 ### Adding Your Own Animations
@@ -102,7 +102,7 @@ You might think that you could simplify the code by writing something like this:
 
 The problem is that if the animations dictionary is empty then the mutable array is not created so you are effectively setting the animations dictionary to nil in the third line.
 
-[Download an example project containing this code](http://images.swwritings.com/2010-05-23-core-animation-the-animator-proxy-02.zip)
+[Download an example project containing this code](https://www.swwritings.com/images/2010-05-23-core-animation-the-animator-proxy-02.zip)
 
 Sometimes you will not see an animation effect that you expect. If, for example, you wanted to change the the textField’s size as well as origin you might create your new animation and set its key to ‘frame’:
 
@@ -165,7 +165,7 @@ I tend to define animations in their own methods rather than creating them in-li
 
 You can now simply add this new animation object to the animations dictionary of your window or view as described above to use it.
 
-[Download an example project](http://images.swwritings.com/2010-05-23-core-animation-the-animator-proxy-03.zip)
+[Download an example project](https://www.swwritings.com/images/2010-05-23-core-animation-the-animator-proxy-03.zip)
 
 ### Keyframe Animation - The CAKeyframeAnimation Object
 Keyframe animation allows you finer-grain control over your animations. For example, you can create a keyframe animation where you change the origin of a view over three seconds and have the view move half way to its destination in the first second, stay stationary for a second and then move to its final destination in the last second.
@@ -244,7 +244,7 @@ We can further enhance the animation by passing an array of media timing functio
 
 Note that there is one less media timing function than there are values or keyTimes. This is because the media timing function apply to the animation between the values and not to the values themselves.
 
-[Download an example project](http://images.swwritings.com/2010-05-23-core-animation-the-animator-proxy-04.zip)
+[Download an example project](https://www.swwritings.com/images/2010-05-23-core-animation-the-animator-proxy-04.zip)
 
 As an alternative to creating an array of values for a keyframe animation it is possible to use a path for situations where the values are dual-value properties such as origin which has both an x and a y value. This is particularly useful when you want to animate something in a non-linear fashion. For example, if we decided to move our view across the window but wanted it to go from top-left to bottom-right in a smooth curve we would be unable to do this properly (well realistically) using values but it can be done easily using a path:
 
@@ -307,7 +307,7 @@ As before we can set keyTimes for the animation too so if we wanted to perform a
 
 One thing to note is that like when we used values we need the number of path segments to match the number of key times so there is a new path drawing element that simply draws the path from the point it is at to the point it is at.
 
-[Download an example project](http://images.swwritings.com/2010-05-23-core-animation-the-animator-proxy-05.zip)
+[Download an example project](https://www.swwritings.com/images/2010-05-23-core-animation-the-animator-proxy-05.zip)
 
 ### Grouping Animations
 Sometimes you might want to group animations together and you can do this with the CAAnimationGroup object. Assume, for example, that you wanted to move a view across a window and, at the same time, change its size.
@@ -363,7 +363,7 @@ The value we pass is irrelevant as nothing uses it but the key is the name we ga
   return;
 }</pre>
 
-[Download an example project](http://images.swwritings.com/2010-05-23-core-animation-the-animator-proxy-06.zip)
+[Download an example project](https://www.swwritings.com/images/2010-05-23-core-animation-the-animator-proxy-06.zip)
 
 ### Custom Names
 As described above, you can give an animation a custom name and invoke it via the setValue:forKey: method of the window or view's animator proxy. This adds more flexibility to the system because it means that you can pre-define a whole raft of animations that, for example, apply to a view's origin, add them all to your view's animations dictionary using a custom key for each and then invoke the required animation using that custom key. Just remember that because the animation is not linked to an existing animatable property you must use the animationWithKeyPath: convenience method to create the CAAnimation object and you must override setValue:forUndefinedKey: in a subclass of the object invoking the method.

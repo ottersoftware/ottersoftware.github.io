@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-For an overview of the FOLC project please see the [Introduction](http://www.swwritings.com/post/2017-12-28-folc-introduction) post. To see all of the posts relating to the FOLC project please see the [article list](http://www.swwritings.com/categories/#folc).
+For an overview of the FOLC project please see the [Introduction](https://www.swwritings.com/post/2017-12-28-folc-introduction) post. To see all of the posts relating to the FOLC project please see the [article list](https://www.swwritings.com/categories/#folc).
 
 ---
 

@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-For an overview of the FOLC project please see the [Introduction](http://www.swwritings.com/post/2017-12-28-folc-introduction) post. To see all of the posts relating to the FOLC project please see the [article list](http://www.swwritings.com/categories/#folc).
+For an overview of the FOLC project please see the [Introduction](https://www.swwritings.com/post/2017-12-28-folc-introduction) post. To see all of the posts relating to the FOLC project please see the [article list](https://www.swwritings.com/categories/#folc).
 
 ---
 
@@ -21,7 +21,11 @@ There are various tools you can use for wireframing but at the moment my tool of
 ## An Example Workflow
 To put the wireframes into context it is helpful to construct example workflows of how the application might be used. Below is one, based on someone called Edgar Padfield who appears both in the records and also in several photographs.
 
-1. Someone searches for the name ‘padfield’. The system searches in the database and returns a list of people whose name contains that search term along with any dates or birth or death. Amongst the list is Edgar Padfield.2. To see more information about Edgar, the person clicks on the name in the list and they are then shown a screen of information about him. This comprises information from the transcribed parish records and any other available sources such as censuses, text from his gravestone, information about his burial plot, etc.3. The same screen contains a list of related photographs. The items in the list can be clicked to show the photo. The photos might include things like his gravestone, the house where he used to live, a picture of him, etc.4. Additional links are also provided. The position of Edgar’s grave is known so a link to the churchyard map is available which, when clicked, shows the map along with details of his grave’s position. Similarly, the address of a house he lived in is known so there is a link to a map showing the location of the house.5. Known relatives exist in the database too so the main page of information about Edgar links to them allowing quick and easy access to their information pages too.
+1. Someone searches for the name ‘padfield’. The system searches in the database and returns a list of people whose name contains that search term along with any dates or birth or death. Amongst the list is Edgar Padfield.
+2. To see more information about Edgar, the person clicks on the name in the list and they are then shown a screen of information about him. This comprises information from the transcribed parish records and any other available sources such as censuses, text from his gravestone, information about his burial plot, etc.
+3. The same screen contains a list of related photographs. The items in the list can be clicked to show the photo. The photos might include things like his gravestone, the house where he used to live, a picture of him, etc.
+4. Additional links are also provided. The position of Edgar’s grave is known so a link to the churchyard map is available which, when clicked, shows the map along with details of his grave’s position. Similarly, the address of a house he lived in is known so there is a link to a map showing the location of the house.
+5. Known relatives exist in the database too so the main page of information about Edgar links to them allowing quick and easy access to their information pages too.
 
 ## The Home Page
 The application’s home page will provide some information about the application and what it does. It will also show some brief instructions to get someone new to it started. A random image from a pool of pre-selected images will be shown. This can be clicked to show the image's information page.
@@ -41,7 +45,8 @@ The search results show people and images which match the search term. The resul
 
 ## People
 The person details screen shows all of the available information for a person. In some cases this might include some narrative and in others it may simply be a birth, marriage or death date.
-Where possible links to things like a scanned parish record image or details about their grave will be provided.
+
+Where possible links to things like a scanned parish record image or details about their grave will be provided.
 
 <figure class="half">
 	<img src="{{ site.url }}/images/folc-wireframes-03.png" alt="The Person Details Wireframe">

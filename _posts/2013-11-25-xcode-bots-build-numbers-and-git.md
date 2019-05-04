@@ -7,13 +7,13 @@ layout: post
 share: true
 ---
 
-Following up on [my recent post](http://swwritings.com/post/2013-11-14-setting-up-xcode-bots) about Xcode Bots I wanted write up some brief notes about how I have configured a project so that an archive build Bot bumps the project's build number and then commits that back to the Git repository. Normally I would do things like this using a Run Script build phase but here's a slightly different approach using Xcode's Schemes.
+Following up on [my recent post](https://swwritings.com/post/2013-11-14-setting-up-xcode-bots) about Xcode Bots I wanted write up some brief notes about how I have configured a project so that an archive build Bot bumps the project's build number and then commits that back to the Git repository. Normally I would do things like this using a Run Script build phase but here's a slightly different approach using Xcode's Schemes.
 
 If you edit your project's scheme you will see that you can add pre-action and post-action scripts:
 
-<img src="http://images.swwritings.com/2013-11-25-xcode-bots-build-numbers-and-git-01.png" alt="Xcode Schemes" width="540" />
+<img src="https://www.swwritings.com/images/2013-11-25-xcode-bots-build-numbers-and-git-01.png" alt="Xcode Schemes" width="540" />
 
-[<a href="http://images.swwritings.com/2013-11-25-xcode-bots-build-numbers-and-git-01.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2013-11-25-xcode-bots-build-numbers-and-git-01.png" target="_blank">Full Sized Version</a>]
 
 *[This is a client's project so some parts of the image have had to be obscured]*
 

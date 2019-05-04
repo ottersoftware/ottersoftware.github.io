@@ -9,7 +9,7 @@ share: true
 
 One aspect of FTS is that you need to 'sanitise' the text you are searching for. For example, if your source text was 'École' then you want it to be matched if the search term is something like 'ecole' or 'Ecole' or 'école'.
 
-I've [previously touched on this](http://swwritings.com/post/2013-04-30-searching-for-speedy-searching#nsstringotscategory) where I suggested using a possibly flawed NSString category to strip diacritic marks from the text you were storing in an FTS table.
+I've [previously touched on this](https://swwritings.com/post/2013-04-30-searching-for-speedy-searching#nsstringotscategory) where I suggested using a possibly flawed NSString category to strip diacritic marks from the text you were storing in an FTS table.
 
 I've now been told about an alternative.
 
@@ -19,7 +19,7 @@ However Brendan did bring up one particular issue which is that it doesn't handl
 
 Anyway, if you do want to implement this then you do have to include your own build of SQLite in your project because the versions which are bundled with iOS and OS X don't have this feature enabled.
 
-To enable it you need to get and include the SQLite amalgamation source in your project (covered in the slides available in [this blog post](http://swwritings.com/post/2013-04-15-searching-for-speedy-searching-prelude)) and add a new define:
+To enable it you need to get and include the SQLite amalgamation source in your project (covered in the slides available in [this blog post](https://swwritings.com/post/2013-04-15-searching-for-speedy-searching-prelude)) and add a new define:
 
 	#define SQLITE_ENABLE_FTS4_UNICODE61
 

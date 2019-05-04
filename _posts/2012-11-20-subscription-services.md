@@ -97,13 +97,13 @@ It is a good service and it is more complete than the issue tracking areas inclu
 
 [http://www.squarespace.com](http://www.squarespace.com)
 
-Squarespace is a blogging service and one signed up for when I re-built the [Otter Software web site](http://www.ottersoftware.com) a few years back. As happens with most people, I blogged for a while and then slowly it tailed off. When I decided to [get back into blogging](http://swwritings.com/post/2012-08-21-a-new-home) I decided to use [Scriptogr.am](http://scriptogr.am) and my Squarespace blog has continued to rot. My plan is to migrate useful content to this blog and then cancel my Squarespace account. At $120 per year I suppose I should get on with it.
+Squarespace is a blogging service and one signed up for when I re-built the [Otter Software web site](https://www.ottersoftware.com) a few years back. As happens with most people, I blogged for a while and then slowly it tailed off. When I decided to [get back into blogging](https://swwritings.com/post/2012-08-21-a-new-home) I decided to use [Scriptogr.am](http://scriptogr.am) and my Squarespace blog has continued to rot. My plan is to migrate useful content to this blog and then cancel my Squarespace account. At $120 per year I suppose I should get on with it.
 
 **Linode**
 
 [http://www.linode.com](http://www.linode.com)
 
-My Linode account powers the [Otter Software web site](http://www.ottersoftware.com) as well as [my daughter's school web](http://www.leighonmendipschool.info) site and the [pre-school web site](http://www.owlbabies.info). I also use the server to host images for this blog and various other bits and pieces. It's not a cheap service and is probably over-kill for the traffic I get and the demands I place on the server but it's something I'm happy to pay for and run because it offers me a huge amount of potential for future growth.
+My Linode account powers the [Otter Software web site](https://www.ottersoftware.com) as well as [my daughter's school web](http://www.leighonmendipschool.info) site and the [pre-school web site](http://www.owlbabies.info). I also use the server to host images for this blog and various other bits and pieces. It's not a cheap service and is probably over-kill for the traffic I get and the demands I place on the server but it's something I'm happy to pay for and run because it offers me a huge amount of potential for future growth.
 
 **A Small Orange**
 

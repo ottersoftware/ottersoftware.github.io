@@ -15,6 +15,6 @@ Now I really can't properly comment on the bike after a ride of just under two m
 
 I'm thoroughly looking forward to Monday when I can go for a longer ride and really get to grips with my bike.
 
-<img src="http://images.swwritings.com/2012-04-12-grinning-again.jpg" alt="My new Trek 7.3 FX" width="540" />
+<img src="https://www.swwritings.com/images/2012-04-12-grinning-again.jpg" alt="My new Trek 7.3 FX" width="540" />
 
-[<a href="http://images.swwritings.com/2012-04-12-grinning-again.jpg" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-04-12-grinning-again.jpg" target="_blank">Full Sized Version</a>]

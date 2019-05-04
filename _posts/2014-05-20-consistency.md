@@ -17,15 +17,15 @@ Six months on it's been interesting to see how things panned out.
 
 avTag development was patchy in December and January (but note how I spent Christmas Eve and Christmas Day!).
 
-<img src="http://images.swwritings.com/2014-05-20-consistency-01.png" alt="avTag Development Pre-Release" width="320" />
+<img src="https://www.swwritings.com/images/2014-05-20-consistency-01.png" alt="avTag Development Pre-Release" width="320" />
 
-[<a href="http://images.swwritings.com/2014-05-20-consistency-01.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2014-05-20-consistency-01.png" target="_blank">Full Sized Version</a>]
 
 There was then a long, long gap. On 1 April [Steve 'Scotty' Scott](https://twitter.com/macdevnet) set me a challenge to get avTag into the store by the end of the month. For weeks I did nothing until on 24 April I panicked and started work on avTag again. The deadline was met and avTag was subsequently approved and became available on the App Store on Thursday 8 May.
 
-<img src="http://images.swwritings.com/2014-05-20-consistency-02.png" alt="avTag Development Pre-Release" width="320" />
+<img src="https://www.swwritings.com/images/2014-05-20-consistency-02.png" alt="avTag Development Pre-Release" width="320" />
 
-[<a href="http://images.swwritings.com/2014-05-20-consistency-02.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2014-05-20-consistency-02.png" target="_blank">Full Sized Version</a>]
 
 Even in the days when avTag was being approved and before it went on sales I was doing thing, whether it was to the [avTag web site](http://avtag.it) or sorting out newsletter templates.
 

@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-A couple of weeks ago I wrote about [my Scriptogram workflow](http://swwritings.com/post/2012-08-23-scriptogram). One of the areas I was still refining was how to handle images and after some further tinkering I'm using a slightly different approach so I though it would be worth posting a quick update about it.
+A couple of weeks ago I wrote about [my Scriptogram workflow](https://swwritings.com/post/2012-08-23-scriptogram). One of the areas I was still refining was how to handle images and after some further tinkering I'm using a slightly different approach so I though it would be worth posting a quick update about it.
 
 Originally I tried using [Flickr](http://www.flickr.com) and then [SmugMug](http://www.smugmug.com) as image hosting solutions but both involved a fair amount of tinkering with web-based interfaces to upload and then retrieve URLs for images.
 
@@ -19,17 +19,17 @@ However, because Amazon S3 sets file permissions so that only the file's owner c
 
 I also defined a Skip Files rule whereby, if I synchronise a local folder to a remote one and apply the rule then any files with the 'md' extension are ignored. This allows me to sync my main Scriptogram posts folder in Dropbox with the images folder on S3 and only sync image files and ignore the markdown files.
 
-<img src="http://images.swwritings.com/2012-09-07-scriptogram-image-update-01.png" alt="The Transmit permissions and sync rules" width="540" />
+<img src="https://www.swwritings.com/images/2012-09-07-scriptogram-image-update-01.png" alt="The Transmit permissions and sync rules" width="540" />
 
-[<a href="http://images.swwritings.com/2012-09-07-scriptogram-image-update-01.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-09-07-scriptogram-image-update-01.png" target="_blank">Full Sized Version</a>]
 
 [Mathew Waters](http://twitter.com/mathew_waters) [then suggested](https://twitter.com/mathew_waters/statuses/244059758028529664) that I should take a look at [CloudFront](http://aws.amazon.com/cloudfront/) which is an Amazon service that essentially distributes static files such as images across servers around the world so that they download faster. It hooks in to their S3 service and I was able to hook it in to my swwritings.com domain name so the images now appear to come from images.swwritings.com which makes everything nice and neat and fast.
 
 A final step was to create a new [TextExpander](http://smilesoftware.com/TextExpander/) shortcut which will will generate the core HTML I need to display images in my blog.
 
-<img src="http://images.swwritings.com/2012-09-07-scriptogram-image-update-02.png" alt="Textexpander Image Shortcut" width="540" />
+<img src="https://www.swwritings.com/images/2012-09-07-scriptogram-image-update-02.png" alt="Textexpander Image Shortcut" width="540" />
 
-[<a href="http://images.swwritings.com/2012-09-07-scriptogram-image-update-02.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-09-07-scriptogram-image-update-02.png" target="_blank">Full Sized Version</a>]
 
 Because I want to have the browser resize images to fit the blog's width I'm using HTML rather than markdown's own image linking syntax. However, because I am also linking to full-sized images I can also easily provide a link to that version which then opens in a new window or tab.
 

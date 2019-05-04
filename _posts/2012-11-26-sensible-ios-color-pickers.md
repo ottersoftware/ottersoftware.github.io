@@ -25,13 +25,13 @@ However, recreating this as tappable elements on in iOS screen would result in a
 
 Apple's own OS X colour picker then provided the next bit of inspiration. Their colour picker includes a 'crayons' view which looks like this:
 
-<img src="http://images.swwritings.com/2012-11-26-sensible-ios-color-pickers-03.png" alt="Apple's 'Crayons' Colour Picker" />
+<img src="https://www.swwritings.com/images/2012-11-26-sensible-ios-color-pickers-03.png" alt="Apple's 'Crayons' Colour Picker" />
 
 I liked the simplicity of this and, although I knew that some of the colours were too close to other colours the idea of 48 colours laid out in a grid of hexagons appealed. It offered limited colours and the interface would fit comfortably on an iPhone's screen. My first version looked like this:
 
-<img src="http://images.swwritings.com/2012-11-26-sensible-ios-color-pickers-02.png" alt="Initial colour picker attempt" width="540" />
+<img src="https://www.swwritings.com/images/2012-11-26-sensible-ios-color-pickers-02.png" alt="Initial colour picker attempt" width="540" />
 
-[<a href="http://images.swwritings.com/2012-11-26-sensible-ios-color-pickers-02.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-11-26-sensible-ios-color-pickers-02.png" target="_blank">Full Sized Version</a>]
 
 The closeness of some of the colours is very apparent and I will be asking a designer for some advice about providing a better palette of colours.
 

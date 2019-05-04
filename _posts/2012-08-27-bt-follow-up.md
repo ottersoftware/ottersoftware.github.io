@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-On Saturday evening I wrote [a blog post about the nightmare I'd been having with BT](http://swwritings.com/post/2012-08-25-the-disgrace-that-is-bt). After publishing it I decided to email a link to [Ian Livingston](http://en.wikipedia.org/wiki/Ian_Livingston), the Chief Executive of BT Group. Things started to happen after that.
+On Saturday evening I wrote [a blog post about the nightmare I'd been having with BT](https://swwritings.com/post/2012-08-25-the-disgrace-that-is-bt). After publishing it I decided to email a link to [Ian Livingston](http://en.wikipedia.org/wiki/Ian_Livingston), the Chief Executive of BT Group. Things started to happen after that.
 
 Mr Livingston replied within minutes which, considering it was a Saturday night, was impressive. He said that he would ask a member of the service team to look into the matter.
 

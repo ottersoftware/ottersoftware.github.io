@@ -9,7 +9,7 @@ share: true
 
 At [NSConference 5](http://nsconference.com) I presented a talk entitled 'Searching for Speedy Searching'. The talk was about how you can use SQLite's [Full Text Search](http://www.sqlite.org/fts3.html) (FTS) to add full text searching to your Cocoa applications quickly and easily.
 
-A week ago I published a [blog post](http://swwritings.com/post/2013-04-15-searching-for-speedy-searching-prelude) where I made the slides I used in my talk available and posted a couple of corrections to things I'd said. The main purpose of this post is to go into detail about implementing FTS in an iOS application which uses Core Data. All of the basics will be covered but you still might want to take a look at the slides for a more detailed overview.
+A week ago I published a [blog post](https://swwritings.com/post/2013-04-15-searching-for-speedy-searching-prelude) where I made the slides I used in my talk available and posted a couple of corrections to things I'd said. The main purpose of this post is to go into detail about implementing FTS in an iOS application which uses Core Data. All of the basics will be covered but you still might want to take a look at the slides for a more detailed overview.
 
 ##<a id="contents"></a>Contents
 
@@ -64,9 +64,9 @@ It is important to remember that the application will still use Core Data and th
 
 To use FTS you need to have a build of SQLite with FTS enabled. Fortunately recent builds of iOS and OS X include bundled SQLite libraries with everything you need enabled. I have an iPhone 3GS running iOS 5.1 and I can confirm that this version of iOS contains SQLite with FTS enabled. 
 
-> I've now created [test apps](https://bitbucket.org/ottersoftware/fts-test/overview) for iOS and OS X which you can use to see if FTS if enabled in a particular OS version. You can read a bit more about that in [this blog post](http://swwritings.com/post/2013-05-04-testing-for-fts-in-sqlite).
+> I've now created [test apps](https://bitbucket.org/ottersoftware/fts-test/overview) for iOS and OS X which you can use to see if FTS if enabled in a particular OS version. You can read a bit more about that in [this blog post](https://swwritings.com/post/2013-05-04-testing-for-fts-in-sqlite).
 
-If however you want to do this on older operating systems which don't you should refer to [my presentation slides](http://swwritings.com/post/2013-04-15-searching-for-speedy-searching-prelude) for information about how to include SQLite in your application and how to enable FTS, multi-threading and the advanced querying engine.
+If however you want to do this on older operating systems which don't you should refer to [my presentation slides](https://swwritings.com/post/2013-04-15-searching-for-speedy-searching-prelude) for information about how to include SQLite in your application and how to enable FTS, multi-threading and the advanced querying engine.
 
 What you will definitely need if you want to make your life easier is Gus Muller's [FMDB](https://github.com/ccgus/fmdb). 
 
@@ -319,7 +319,7 @@ There are a few things to note about the project itself.
 
 * Confession time. I'd assumed that the code in my category would strip diacritic marks and normalise the text. The code comes from the WWDC 2010 sample code and specifically the DerivedProperty Mac project. However, a web search whilst writing this post lead me to a [StackOverflow article](http://stackoverflow.com/questions/9376621/folding-normalizing-ligatures-e-g-to-ae-using-corefoundation) where it seems that this is all a bit of a minefield. This category may not be as great as I'd thought. If you do have problems with it, let me know. Even better, let me know with a better solution!
 
-> I've published a [blog post](http://swwritings.com/post/2013-05-04-diacritics-and-fts) which presents an alternative approach although that too has some flaws.
+> I've published a [blog post](https://swwritings.com/post/2013-05-04-diacritics-and-fts) which presents an alternative approach although that too has some flaws.
 
 [Back to the demo app contents list](#demoappcontents)
 

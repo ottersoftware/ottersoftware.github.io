@@ -36,7 +36,7 @@ However these choices may well change over the next few months as I play around 
 
 ##<a id="images"></a>Images
 
-**Updated: See [Scriptogram Image Handling - An Update](http://swwritings.com/post/2012-09-07-scriptogram-image-update)**
+**Updated: See [Scriptogram Image Handling - An Update](https://swwritings.com/post/2012-09-07-scriptogram-image-update)**
 
 Adding images to blog posts is, in theory, very simple. Markdown supports linking to images so that aspect is no problem at all. Rather the problem is with image hosting.
 
@@ -53,21 +53,21 @@ One thing that is proving to be really useful is [TextExpander](http://smilesoft
 
 I use TextExpander to generate boilerplate text my blog posts. The first thing I do is add the basic 'structure' to a new Markdown file:
 
-<img src="http://images.swwritings.com/2012-08-23-scriptogram-01.png" alt="The basic blog structure" width="540" />
+<img src="https://www.swwritings.com/images/2012-08-23-scriptogram-01.png" alt="The basic blog structure" width="540" />
 
-[<a href="http://images.swwritings.com/2012-08-23-scriptogram-01.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-08-23-scriptogram-01.png" target="_blank">Full Sized Version</a>]
 
 The last item actually embeds another snippet into this one:
 
-<img src="http://images.swwritings.com/2012-08-23-scriptogram-02.png" alt="The basic blog structure" width="540" />
+<img src="https://www.swwritings.com/images/2012-08-23-scriptogram-02.png" alt="The basic blog structure" width="540" />
 
-[<a href="http://images.swwritings.com/2012-08-23-scriptogram-02.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-08-23-scriptogram-02.png" target="_blank">Full Sized Version</a>]
 
 Finally, I also have a snippet that adds the basic Markdown for linking to an image:
 
-<img src="http://images.swwritings.com/2012-08-23-scriptogram-03.png" alt="The basic blog structure" width="540" />
+<img src="https://www.swwritings.com/images/2012-08-23-scriptogram-03.png" alt="The basic blog structure" width="540" />
 
-[<a href="http://images.swwritings.com/2012-08-23-scriptogram-03" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-08-23-scriptogram-03" target="_blank">Full Sized Version</a>]
 
 I'll undoubtedly be adding to this initially short list but just being able to add chunks of text to each post via a few keystrokes is a fantastic time-saver.
 

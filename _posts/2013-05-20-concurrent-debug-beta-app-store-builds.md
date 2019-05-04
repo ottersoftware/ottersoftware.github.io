@@ -43,9 +43,9 @@ Add those provisioning profiles to Xcode and you're ready to start configuring y
 
 Select the Project Navigator and then click on your project at the top to show the project and target details. Select the project and then the Info tab. You need to add a new configuration so click on the plus button and duplicate the Release configuration. Call it something like 'Ad Hoc' or something else which will help you identify its purpose.
 
-<img src="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-1.png" alt="Project Configurations" width="540" />
+<img src="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-1.png" alt="Project Configurations" width="540" />
 
-[<a href="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-1.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-1.png" target="_blank">Full Sized Version</a>]
 
 Next select your target in Xcode and then switch to the Info tab. You need to modify the bundle identifier and the bundle display name.
 
@@ -63,9 +63,9 @@ Next change the bundle display name. It's hopefully currently ${PRODUCT_NAME}. T
 
     ${PRODUCT_NAME}${BUNDLE_DISPLAY_NAME_SUFFIX}
 
-<img src="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-2.png" alt="Target Info Settings" width="540" />
+<img src="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-2.png" alt="Target Info Settings" width="540" />
 
-[<a href="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-2.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-2.png" target="_blank">Full Sized Version</a>]
 
 Switch to the Build Settings tab and click on the Add Build Settings button in the bottom right and select 'Add User-Defined Setting'. Call the new setting 'BUNDLE_ID_SUFFIX'. Add a second user-defined setting and call it 'BUNDLE_DISPLAY_NAME_SUFFIX'. These are the two values you entered in the Info tab.
 
@@ -79,9 +79,9 @@ The BUNDLE_ID_SUFFIX needs to match the bundle identifiers you set up in the App
 
 The BUNDLE_DISPLAY_NAME_SUFFIX is totally subjective. I would suggest adding something short. I use alpha and beta symbols for debug and ah hoc releases respectively. Remember to add a space before the suffix too.
 
-<img src="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-3.png" alt="User-Defined Build Settings" width="540" />
+<img src="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-3.png" alt="User-Defined Build Settings" width="540" />
 
-[<a href="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-3.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-3.png" target="_blank">Full Sized Version</a>]
 
 At this point you should configure the Code Signing Entitlements too and match the Debug, Ad Hoc and Release configurations to their respective provisioning profiles. This is the only place where using a wildcard application identifier comes in handy since you can leave Xcode to automatically pick the correct provisioning profile.
 
@@ -155,9 +155,9 @@ The first step is to add some values to the three configurations for the Preproc
 
 These can be seen in-situ in the following screenshot:
 
-<img src="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-4.png" alt="Preprocessor Macros" width="540" />
+<img src="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-4.png" alt="Preprocessor Macros" width="540" />
 
-[<a href="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-4.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-4.png" target="_blank">Full Sized Version</a>]
 
 The 'DEBUG=1' item is probably already there, inserted by Xcode.
 
@@ -175,15 +175,15 @@ What this means is that in your code you can now use conditional compilation to 
 
     ...
     
-<img src="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-5.png" alt="Badging the App Icon" width="540" />
+<img src="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-5.png" alt="Badging the App Icon" width="540" />
 
-[<a href="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-5.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-5.png" target="_blank">Full Sized Version</a>]
 
 The end result of all of this is that your device will be able to show something like this:
 
-<img src="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-6.png" alt="Badged App Icons" width="540" />
+<img src="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-6.png" alt="Badged App Icons" width="540" />
 
-[<a href="http://images.swwritings.com/2013-05-20-concurrent-debug-beta-app-store-builds-6.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2013-05-20-concurrent-debug-beta-app-store-builds-6.png" target="_blank">Full Sized Version</a>]
 
 [Evan Doll](https://twitter.com/edog1203) talked about something similar in his great talk about iOS Tools at Flipboard which he gave at NSConference 5 this year. You can get a video of Evan's talk from [the NSConference web site](http://nsconference.com). Evan's approach is to actually change the icon's image and add version information to it. This is a good idea if you don't have version information available somewhere within the application itself.
 

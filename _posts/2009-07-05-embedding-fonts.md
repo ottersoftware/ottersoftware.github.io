@@ -17,26 +17,26 @@ Below is a step-by-step guide to doing this:
 
 2. Add a new Copy Files Build Phase to the Target project. Ensure the destination is Resources and specify a path.
 
-<img src="http://images.swwritings.com/2009-07-05-embedding-fonts-01.png" alt="Copy Files Build Phase" />
+<img src="https://www.swwritings.com/images/2009-07-05-embedding-fonts-01.png" alt="Copy Files Build Phase" />
 
 In this case the font will be stored in the bundle's Resources/AppFonts folder.
 
 3. Add the ATSApplicationFontsPath key to the Info.plist file. This can either be done via Xcode or the Property List editor or via a text editor.
 
-<img src="http://images.swwritings.com/2009-07-05-embedding-fonts-02.png" alt="Info.plist" />
+<img src="https://www.swwritings.com/images/2009-07-05-embedding-fonts-02.png" alt="Info.plist" />
 
-<img src="http://images.swwritings.com/2009-07-05-embedding-fonts-03.png" alt="Raw Info.plist" />
+<img src="https://www.swwritings.com/images/2009-07-05-embedding-fonts-03.png" alt="Raw Info.plist" />
 
 4. Drag the font from the Resources group to the new build phase. You may need to delete the font from the 'Copy Bundle Resources' build phase.
 
-<img src="http://images.swwritings.com/2009-07-05-embedding-fonts-04.png" alt="Build Phases" />
+<img src="https://www.swwritings.com/images/2009-07-05-embedding-fonts-04.png" alt="Build Phases" />
 
 5. After building your project the font file should be stored in the designated font folder.
 
-<img src="http://images.swwritings.com/2009-07-05-embedding-fonts-05.png" alt="Finder Window" />
+<img src="https://www.swwritings.com/images/2009-07-05-embedding-fonts-05.png" alt="Finder Window" />
 
 ### Download
-[Download](http://images.swwritings.com/2009-07-05-embedding-fonts.zip) a sample project.
+[Download](https://www.swwritings.com/images/2009-07-05-embedding-fonts.zip) a sample project.
 
 ### Crystal Font
 The font used in this example is [Crystal](http://www.fontspace.com/allen-r-walden/crystal) by Allen R Walden.

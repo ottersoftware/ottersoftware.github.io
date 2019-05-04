@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-If you're a long-time visitor you'll probably know about my attempts to get fit and lose weight by [cycling](http://swwritings.com/tag/cycling). Back in May I felt I was finally making a bit of progress and then my knee became incredibly painful and stayed that way for three weeks. Even when it felt generally better it was still painful to cycle and I worried that I was causing it more damage. It was time to try something new.
+If you're a long-time visitor you'll probably know about my attempts to get fit and lose weight by [cycling](https://swwritings.com/tag/cycling). Back in May I felt I was finally making a bit of progress and then my knee became incredibly painful and stayed that way for three weeks. Even when it felt generally better it was still painful to cycle and I worried that I was causing it more damage. It was time to try something new.
 
 Remembering a period in my life a decade ago when I went to the gym regularly and actually enjoyed it I recalled being particularly enamoured with the indoor rowing machines.  Since I know I'd struggle to go to a gym I decided to splash out on my own rowing machine and three weeks ago my [Concept2 Model D](http://www.concept2.co.uk/indoor-rowers/model-d) arrived.
 

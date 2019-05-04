@@ -11,9 +11,9 @@ A number of developers have built themselves treadmill desks and others have sta
 
 However I did want to show off the results of a couple of hours of dismantling and reconfiguring my desk.
 
-<img src="http://images.swwritings.com/2012-05-28-standing-desk.jpg" alt="My standing desk" width="540" />
+<img src="https://www.swwritings.com/images/2012-05-28-standing-desk.jpg" alt="My standing desk" width="540" />
 
-[<a href="http://images.swwritings.com/2012-05-28-standing-desk.jpg" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-05-28-standing-desk.jpg" target="_blank">Full Sized Version</a>]
 
 I'm fortunate in that for may years I've used Ikea's IVAR shelving as the basis of my desk. It's allowed me to build desks that fit a wide variety of spaces in many houses (this is the sixth house I've built a desk out of it) so the conversion work was fairly straightforward. I'm also luck in that I have a couple of discontinued elements. One of which is the keyboard shelf which means I can put some extra space between myself and my iMac.
 

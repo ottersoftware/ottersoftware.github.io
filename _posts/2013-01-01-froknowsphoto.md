@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-During my [re-discovery of photography](http://swwritings.com/post/2013-01-01-snappy-new-year/) I came across a very charismatic photographer who produces a lot of YouTube videos about photography, a guy called [Jared Polen](http://jaredpolin.com). Jared isn't infallible (his technical explanation of bokeh in [one of his YouTube videos](http://www.youtube.com/watch?v=9C8aD66nGL8) was quite confused) but he gives great advice in a wonderfully approachable and digestible format via his [Fro Knows Photo](http://froknowsphoto.com) site.
+During my [re-discovery of photography](https://swwritings.com/post/2013-01-01-snappy-new-year/) I came across a very charismatic photographer who produces a lot of YouTube videos about photography, a guy called [Jared Polen](http://jaredpolin.com). Jared isn't infallible (his technical explanation of bokeh in [one of his YouTube videos](http://www.youtube.com/watch?v=9C8aD66nGL8) was quite confused) but he gives great advice in a wonderfully approachable and digestible format via his [Fro Knows Photo](http://froknowsphoto.com) site.
 
 Jared has created a [video guide](http://froknowsphoto.com/fro-video-guide/) aimed at people who want to move beyond taking photos in auto mode on their DSLR. I couldn't find many reviews of it beyond [posts in Jared's own forum](http://froknowsphoto.com/forums/viewtopic.php?f=145&t=187673) but decided as a post-Christmas treat to spend $67 (around £53 including VAT) on it and see what it is like.
 

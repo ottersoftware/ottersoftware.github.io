@@ -7,9 +7,9 @@ layout: post
 share: true
 ---
 
-I sat down to write this post without realising that it was just over a year ago that I wrote a post covering a lot of what I wanted to write about today... only more optimistically. Having deleted the original draft of today's post I can now just link to [last year's](http://swwritings.com/post/2012-04-10-getting-back-on-a-bike) which was all about my intention to buy a bike, cycle, lose weight and get fit. Easy, right? Well no. I failed miserably in 2012.
+I sat down to write this post without realising that it was just over a year ago that I wrote a post covering a lot of what I wanted to write about today... only more optimistically. Having deleted the original draft of today's post I can now just link to [last year's](https://swwritings.com/post/2012-04-10-getting-back-on-a-bike) which was all about my intention to buy a bike, cycle, lose weight and get fit. Easy, right? Well no. I failed miserably in 2012.
 
-Oddly it was exactly one year ago that I wrote [another post](http://swwritings.com/post/2012-04-12-grinning-again) about how my daughter and I had just collected my new bike and done a couple of loops of local lanes. Without realising it, today my daughter and I got our bikes out for the first time this year and did exactly the same route. And then cycled two or three miles more.
+Oddly it was exactly one year ago that I wrote [another post](https://swwritings.com/post/2012-04-12-grinning-again) about how my daughter and I had just collected my new bike and done a couple of loops of local lanes. Without realising it, today my daughter and I got our bikes out for the first time this year and did exactly the same route. And then cycled two or three miles more.
 
 So why all this talk of failure? Because during 2012 I didn't lose weight and I didn't get fitter. Or at least if I did lose weight and I did get fitter I'm now back where I started. It's time to work out what went wrong and, more importantly, how I can now fix it and actually realise my goals.
 

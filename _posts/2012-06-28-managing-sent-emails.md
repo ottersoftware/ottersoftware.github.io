@@ -15,8 +15,8 @@ Today it struck me that I could tag an email I was sending, whether it be a repl
 
 Here is a screenshot of the Mail rule:
 
-<img src="http://images.swwritings.com/2012-06-28-managing-sent-emails.png" alt="The Mail rule" width="540" />
+<img src="https://www.swwritings.com/images/2012-06-28-managing-sent-emails.png" alt="The Mail rule" width="540" />
 
-[<a href="http://images.swwritings.com/2012-06-28-managing-sent-emails.png" target="_blank">Full Sized Version</a>]
+[<a href="https://www.swwritings.com/images/2012-06-28-managing-sent-emails.png" target="_blank">Full Sized Version</a>]
 
 This seems to work really well and I'm starting to think about all sorts of other cool stuff I can do too.

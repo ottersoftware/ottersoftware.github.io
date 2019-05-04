@@ -19,7 +19,7 @@ The animator proxy can be enhanced by customising the animations that take place
 
 Finally, being completely accurate, the animation caused via the animator proxy is termed Cocoa Animation or Cocoa Animatable Proxy Animation. This kind of animation does not require Core Animation layers.
 
-The animator proxy is covered in detail in the [article about it](http://swwritings.com/post/2010-05-23-core-animation-the-animator-proxy).
+The animator proxy is covered in detail in the [article about it](https://swwritings.com/post/2010-05-23-core-animation-the-animator-proxy).
 
 ### CALayers
 Core Animation layers, CALayers, are light-weight model classes that store data. This might seem contradictory on the grounds that Core Animation is all about display and moving things and you might expect them to be part of the view in the model-view-controller design pattern but the reality is that the NSView or UIView that the layer is attached to is the object that is the view. CALayers essentially store properties that facilitate the drawing or animation of objects.

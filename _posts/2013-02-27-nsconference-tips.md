@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-The fifth NSConference starts on Monday so I've decided to dust off and update an old blog post (on an old blog) I wrote for the 2010 conference. Below you will find some comments aimed mainly at new attendees although some old hands might also find them useful too. However, before I get to that, if you've never been before then you might want to read a post I wrote about the [2011 conference](http://swwritings.com/post/2011-03-23-nsconference-2011).
+The fifth NSConference starts on Monday so I've decided to dust off and update an old blog post (on an old blog) I wrote for the 2010 conference. Below you will find some comments aimed mainly at new attendees although some old hands might also find them useful too. However, before I get to that, if you've never been before then you might want to read a post I wrote about the [2011 conference](https://swwritings.com/post/2011-03-23-nsconference-2011).
 
 The first NSConference was held in 2009 and at that time I had only been developing Cocoa applications for around a year. Despite being a seasoned developer, the previous 15 or so years of experience seemed to vanish and I felt like a relative newbie. In these situations there is a temptation to keep your head down a bit and try not to make a fool of yourself. Don’t. Apart from the fact that the people who will be at the conference are very amiable, friendly and won’t laugh at you, the best way to learn is to ask questions and even the seasoned developers who will learn from your questions and comments.
 

@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-After recording episode 70 of the [iDeveloperLive podcast](http://ideveloper.tv/podcast/ideveloperlive.html) with [Steve 'Scotty' Scott](http://twitter.com/macdevnet) we had a chat about [avTag](http://swwritings.com/post/2012-08-29-introduction-to-avtag). Scotty has been a huge help during the development of the application and has been my general sounding-board for bouncing ideas off, playing the part of a very vocal guilty conscience when I've not worked on it for a while and generally being a tower of moral support.
+After recording episode 70 of the [iDeveloperLive podcast](http://ideveloper.tv/podcast/ideveloperlive.html) with [Steve 'Scotty' Scott](http://twitter.com/macdevnet) we had a chat about [avTag](https://swwritings.com/post/2012-08-29-introduction-to-avtag). Scotty has been a huge help during the development of the application and has been my general sounding-board for bouncing ideas off, playing the part of a very vocal guilty conscience when I've not worked on it for a while and generally being a tower of moral support.
 
 Amongst this evening's discussion we touched on the fact that development has stalled over the last couple of months due to client work. We grumbled about bills needing to be paid and the discussion moved on.
  

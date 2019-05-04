@@ -7,7 +7,7 @@ layout: post
 share: true
 ---
 
-For an overview of the FOLC project please see the [Introduction](http://www.swwritings.com/post/2017-12-28-folc-introduction) post. To see all of the posts relating to the FOLC project please see the [article list](http://www.swwritings.com/categories/#folc).
+For an overview of the FOLC project please see the [Introduction](https://www.swwritings.com/post/2017-12-28-folc-introduction) post. To see all of the posts relating to the FOLC project please see the [article list](https://www.swwritings.com/categories/#folc).
 
 ---
 
@@ -15,24 +15,12 @@ For an overview of the FOLC project please see the [Introduction](http://www.sww
 The FOLC application uses a variety of data sources and types. This post explains what the types of data are and some considerations about how they will be stored in the database and used.
 
 ## Birth, Marriage and Burial Records
-These records are transcripts of original paper ledgers and they are stored in tables in Excel workbooks spread across Excel files (for births, marriages and burials) so they have a database-like structure already. However the data consistency and accuracy is an issue which is why a later process revolves around data validation and cleansing. However, in terms of the data model, the Excel data provides a good starting point.
-
-However there are two questions which spring immediately to mind.
-
-*Should the three sources of data be merged into a single entity or should they be kept separate?*
-
-*How can related data be identified and linked?*
-
-
-
-
-
-
+These records are transcripts of original paper ledgers and they are stored in multiple Excel files (several each for baptisms, marriages and burials). This means that they have a database-like structure already but the data consistency and accuracy is an issue which is why a particular task revolves around data validation and cleansing.
 
 ## Scanned Parish Records, Photographs and Maps
 These are all images files which will need to have associated metadata such as the type of image, the title, date, contents, etc.
 
-How the images are stored needs to be considered carefully. They could either be stored as image files on the computer and then the database stores paths to the images or the images could be converted into binary data and stored within the database itself.
+Theese could either be stored as files on the computer with their paths stored in the database or the images could be converted into binary data and stored within the database itself.
 
 Having images as separate files and storing the path to each in the database along with the other image metadata keeps the database smaller and means that the images can easily be accessed, backed up, etc. Storing the images as binary data means that no file management is necessary and the application cannot be broken by someone moving an image file but the database itself will be much larger and it isn't possible to simply browse through the image files.
 

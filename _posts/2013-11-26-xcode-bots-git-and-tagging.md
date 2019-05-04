@@ -7,9 +7,9 @@ layout: post
 share: true
 ---
 
-Following on from [my last post](http://swwritings.com/post/2013-11-25-xcode-bots-build-numbers-and-git) about incrementing build numbers when using Xcode's Bots and pushing the changes to your Git repository, this post contains a small script to tag your build.
+Following on from [my last post](https://swwritings.com/post/2013-11-25-xcode-bots-build-numbers-and-git) about incrementing build numbers when using Xcode's Bots and pushing the changes to your Git repository, this post contains a small script to tag your build.
 
-Please refer to [my previous post](http://swwritings.com/post/2013-11-25-xcode-bots-build-numbers-and-git) for details about where this script lives and some notes and when you might want to run it. Note that the *plist* and *$buildnum* values are set in that earlier script.
+Please refer to [my previous post](https://swwritings.com/post/2013-11-25-xcode-bots-build-numbers-and-git) for details about where this script lives and some notes and when you might want to run it. Note that the *plist* and *$buildnum* values are set in that earlier script.
 
     echo "Tagging the Archive..."
     versionnum=$(/usr/libexec/PlistBuddy -c "Print CFBundleShortVersionString" "${plist}")

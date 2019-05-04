@@ -11,7 +11,7 @@ If you have developed a Mac application and Xcode 4 under Lion starts to complai
 
 The alert looks like this:
 
-<img src="http://images.swwritings.com/2011-08-12-lion-and-xib-internal-inconsistencies.png" alt="Lion XIB Internal Inconsistency Warning" />
+<img src="https://www.swwritings.com/images/2011-08-12-lion-and-xib-internal-inconsistencies.png" alt="Lion XIB Internal Inconsistency Warning" />
 
 Apple decided to remove the Customize Toolbar and the Separator toolbar items in Lion. From the Max OS X Lion release Notes:
 

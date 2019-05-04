@@ -9,7 +9,7 @@ share: true
 
 **Update**
 
-Please see the [follow-up blog post](http://swwritings.com/post/2012-08-27-bt-follow-up) for how this all turned out.
+Please see the [follow-up blog post](https://swwritings.com/post/2012-08-27-bt-follow-up) for how this all turned out.
 
 ---
 
