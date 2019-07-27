@@ -2,7 +2,7 @@
 date: 2019-05-02 16:00
 title: Keep Moving
 permalink: /post/2019-05-02-keep-moving
-categories: personal
+categories: miscellaneous
 layout: post
 share: true
 ---

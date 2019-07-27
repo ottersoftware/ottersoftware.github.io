@@ -9,7 +9,7 @@ share: true
 
 Over the last 24 hours or so a news story (see the links to some of the coverage at the end of this post for examples) has been developing regarding 'tagging' dementia sufferers so that they can be tracked. The evolution of the story has made me thing about our perspective of things as developers.
 
-***Full Disclosure:** The device mentioned below is one that my father supplies through his company, [MindMe](http://www.mindme.co.uk). It is this association that has made me aware of the coverage.*
+***Full Disclosure:** The device mentioned below is one that my father supplies through his company, [Mindme](http://www.mindme.co.uk). It is this association that has made me aware of the coverage.*
 
 The essence of the story is that Sussex Police are trialling s GPS tracking device which is designed to allow dementia suffers to be found quickly and easily when they wander off and become lost. Previously such a situation could result in lengthy searches and, tragically, sometimes in the death of people. From the police's point of view there is also a cost aspect to the searches too.
 
@@ -21,7 +21,7 @@ The other element, privacy, is more interesting to me, particularly because the 
 
 Privacy issues are nothing new in the software industry. Recently we've had [concerns over apps such as Path](http://news.cnet.com/8301-1023_3-57567145-93/path-to-pay-$800000-to-settle-privacy-issues-with-ftc/) and Apple of course got into trouble when it was revealed that [iOS devices were storing historic location data](http://www.wired.com/gadgetlab/2011/04/apple-iphone-tracking/). I hope that we're all savvy enough to consider privacy issues and highlight them to potential clients if we are contractors or to employers if we are employed. I recently spoke to a someone about an application idea which involved transmitting location data from iPhones to a server at regular intervals so that geographically-relevant information could be sent out as push notifications. I raised the question of privacy and they are now considering the implications.
 
-We as developers need to be very careful. The SDKs we use give us great power. We must remember that whilst we might have a perception that a feature will be good, useful or clever, someone else may see it as an invasion of privacy or damaging in some other way. Although I may not agree with them, the issues being raised about the use of the MindMe device are rational and valid to the people raising them. They may not understand that the mobile phone they carry around is as much of, if not more of, a privacy risk but that is actually the key point.
+We as developers need to be very careful. The SDKs we use give us great power. We must remember that whilst we might have a perception that a feature will be good, useful or clever, someone else may see it as an invasion of privacy or damaging in some other way. Although I may not agree with them, the issues being raised about the use of the Mindme device are rational and valid to the people raising them. They may not understand that the mobile phone they carry around is as much of, if not more of, a privacy risk but that is actually the key point.
 
 We must remember to step out of the shoes of a tech-savvy individual occasionally and step into those of our parents, technophobe friends or simply people who do not understand or embrace technology as easily as we do. Consider everything from different angles. Perspective is terribly important.
 
