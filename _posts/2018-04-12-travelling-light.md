@@ -2,7 +2,7 @@
 date: 2018-04-12 15:50
 title: Traveling Light
 permalink: /post/2018-04-12-travelling-light
-categories: development
+categories: Technology & General Development
 layout: post
 share: true
 ---
