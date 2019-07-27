@@ -2,7 +2,7 @@
 date: 2018-02-01 10:22
 title: Working With Multiple GitHub (and Alternatives) Accounts
 permalink: /post/2018-02-01-multiple-github-accounts
-categories: Technology & General Development
+categories: miscellaneous
 layout: post
 share: true
 ---
