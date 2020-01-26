@@ -2,7 +2,7 @@
 date: 2020-01-19 18:00
 title: The Year of Linux on my Desktop?
 permalink: /post/2020-01-19-the-year-of-linux-on-my-desktop
-categories: miscellaneous
+categories: linux
 layout: post
 share: true
 ---
