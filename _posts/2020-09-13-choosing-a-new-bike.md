@@ -29,7 +29,7 @@ Speaking of which, AVC is a great bike shop. As well as offering my good advice 
 
 And so my new bike is a Tern HSD and I love it. I've cycled more and further in the last ten days than I have in the perioud nine months and I hope that not only will I continue to cycle but that I will fulfil my plan of replacing the car with it for some shopping trips.
 
-<img src="https://www.swwritings.com/images/2020-09-13-choosing-a-new-bike-01.jpeg" alt="My Tern HSD S+" width="320" />
+<img src="https://www.swwritings.com/images/2020-09-13-choosing-a-new-bike-01.jpeg" alt="My Tern HSD S+" width="100%" />
 
 ## Additional Notes
 
@@ -42,7 +42,6 @@ The [Propel Electric Bikes](https://www.youtube.com/c/PropelbikesUSA/) channel i
 * [Tern HSD Review](https://www.youtube.com/watch?v=SnHFJrB1sXk)
 * [GSD vs HSD](https://www.youtube.com/watch?v=TE3yUXNRpGc)
 * [Automatic Shifting Ebike - Tern HSD S+](https://www.youtube.com/watch?v=0vpjcTEx2LI&t=543s)
-* []()
 
 Tern themselves also have a [Tern HSD Owner Briefing](https://www.youtube.com/watch?v=tCWfnVpymG0)
 
