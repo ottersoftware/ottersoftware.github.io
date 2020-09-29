@@ -37,7 +37,7 @@ And so my new bike is a Tern HSD and I love it. I've cycled more and further in 
 
 The above is obviously just my views on one particular bike which I picked based on my own specific requirements. However I did do a fair amount of research and most was via YouTube. There are some great channels and video reviews of bikes which help enormously and I would strongly recommend watching some if you are thinking about getting a new bike.
 
-The [Propel Electric Bikes](https://www.youtube.com/c/PropelbikesUSA/) channel is incredibly useful but a few of specific videos I liked are:
+The [Propel Electric Bikes](https://www.youtube.com/c/PropelbikesUSA/) channel is incredibly useful but a few specific videos I liked are:
 
 * [Tern HSD Review](https://www.youtube.com/watch?v=SnHFJrB1sXk)
 * [GSD vs HSD](https://www.youtube.com/watch?v=TE3yUXNRpGc)
