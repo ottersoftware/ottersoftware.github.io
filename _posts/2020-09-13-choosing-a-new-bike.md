@@ -17,7 +17,7 @@ In addition to having a frame which fits me I also wanted a step-through bike. D
 
 In amongst the sometimes random YouTube recommendations I get, one was for [a video](https://www.youtube.com/watch?v=nvx3hRDnAxA) by the Fully Charged Show where they visited the Fully Charged (not relation to them) bike shop in London. In the video they talk about some of the makes of bikes they stock and one of them really intrigued me: [the Tern GSD](https://www.ternbicycles.com/bikes/472/gsd) (the section starts at [7m 40s](https://youtu.be/nvx3hRDnAxA?t=460) in the video).
 
-When I was researching the GSD I discovered that Tern make a slightly smaller model called the [HDS](https://www.ternbicycles.com/bikes/471/hsd) which has several benefits such as a more recent motor, a belt drive and being lighter weight.
+When I was researching the GSD I discovered that Tern make a slightly smaller model called the [HSD](https://www.ternbicycles.com/bikes/471/hsd) which has several benefits such as a more recent motor, a belt drive and being slightly lighter.
 
 I was still wavering over whether it was going to be the right bike for me (I didn't necessarily need the cargo carrying capacity) when I decided to go and have a test ride at a local bike shop, [Avon Valley Cyclery](https://www.avonvalleycyclery.co.uk) (AVC) in Bath. I immediately fell in love with it.
 
